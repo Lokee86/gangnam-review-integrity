@@ -16,14 +16,13 @@ import pyarrow.parquet as pq
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 
-from linkage.schema import LINKAGE_RECORD_SCHEMA, validate_linkage_table
+from linkage.schema import EMBEDDING_DIMENSIONS, LINKAGE_RECORD_SCHEMA, validate_linkage_table
 
 DEFAULT_INPUT = ROOT / "data" / "linkage" / "gbg-reviews-2026-10-05.parquet"
 DEFAULT_OUTPUT = DEFAULT_INPUT
 DEFAULT_MANIFEST = ROOT / "data" / "linkage" / "gbg-reviews-2026-10-05.embeddings.json"
 DEFAULT_MODEL = "qwen/qwen3-embedding-8b"
 DEFAULT_ENDPOINT = "https://openrouter.ai/api/v1/embeddings"
-DEFAULT_DIMENSIONS = 1024
 DEFAULT_BATCH_SIZE = 32
 
 
@@ -36,7 +35,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--dimensions",
         type=int,
-        default=int(os.environ.get("CONTINUITY_EMBEDDING_DIMENSIONS", DEFAULT_DIMENSIONS)),
+        default=int(os.environ.get("CONTINUITY_EMBEDDING_DIMENSIONS", EMBEDDING_DIMENSIONS)),
     )
     parser.add_argument("--batch-size", type=int, default=DEFAULT_BATCH_SIZE)
     parser.add_argument("--endpoint", default=DEFAULT_ENDPOINT)
@@ -101,6 +100,12 @@ def request_embeddings(
 
 def main() -> None:
     args = parse_args()
+    if args.dimensions != EMBEDDING_DIMENSIONS:
+        raise SystemExit(
+            f"This linkage schema requires {EMBEDDING_DIMENSIONS}-dimensional embeddings; "
+            f"requested {args.dimensions}"
+        )
+
     api_key = os.environ.get("OPENROUTER_API_KEY") or os.environ.get(
         "CONTINUITY_EMBEDDING_API_KEY"
     )

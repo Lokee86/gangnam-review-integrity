@@ -1,0 +1,105 @@
+{
+  "dataset": "gbg-reviews-2026-10-05",
+  "records": 90,
+  "candidate_pairs": 493,
+  "ground_truth": {
+    "duplicate_pairs": 45,
+    "non_duplicate_pairs": 448,
+    "threshold_calibration_note": "Model parameters are trained without ground-truth labels. The reported decision threshold is selected on the same 493 manually labelled candidate pairs, so these are calibration-set metrics, not a held-out generalisation estimate."
+  },
+  "blocking_rule": "exact clinic_id",
+  "models": [
+    {
+      "name": "raw_cosine",
+      "comparisons": [
+        "Qwen3 embedding cosine similarity"
+      ],
+      "metrics": {
+        "threshold": 0.8794485480865393,
+        "precision": 0.9,
+        "recall": 0.8,
+        "f1": 0.8470588235294118,
+        "true_positives": 36,
+        "false_positives": 4,
+        "false_negatives": 9,
+        "true_negatives": 444,
+        "roc_auc": 0.9789682539682539,
+        "average_precision": 0.8986344042590193,
+        "predicted_edges": 40,
+        "predicted_unique_clusters": 52,
+        "predicted_redundant_records": 38
+      },
+      "predictions_path": "data/linkage/baseline/raw-cosine-pairs.parquet"
+    },
+    {
+      "name": "splink-cosine",
+      "training": {
+        "ground_truth_used_for_parameter_training": false,
+        "u_estimation": {
+          "max_pairs": 4005,
+          "seed": 42
+        },
+        "m_estimation": "expectation_maximisation",
+        "m_estimation_block": "exact clinic_id",
+        "prior_match_probability": 0.01
+      },
+      "comparisons": [
+        "CosineSimilarityAtThresholds"
+      ],
+      "metrics": {
+        "threshold": 0.5092783166390212,
+        "precision": 0.8947368421052632,
+        "recall": 0.7555555555555555,
+        "f1": 0.8192771084337349,
+        "true_positives": 34,
+        "false_positives": 4,
+        "false_negatives": 11,
+        "true_negatives": 444,
+        "roc_auc": 0.9737847222222222,
+        "average_precision": 0.8743176717963401,
+        "predicted_edges": 38,
+        "predicted_unique_clusters": 54,
+        "predicted_redundant_records": 36
+      },
+      "model_path": "data\\linkage\\baseline\\splink-cosine-model.json",
+      "predictions_path": "data\\linkage\\baseline\\splink-cosine-predictions.parquet"
+    },
+    {
+      "name": "splink-augmented",
+      "training": {
+        "ground_truth_used_for_parameter_training": false,
+        "u_estimation": {
+          "max_pairs": 4005,
+          "seed": 42
+        },
+        "m_estimation": "expectation_maximisation",
+        "m_estimation_block": "exact clinic_id",
+        "prior_match_probability": 0.01
+      },
+      "comparisons": [
+        "CosineSimilarityAtThresholds",
+        "JaroWinklerAtThresholds",
+        "ExactMatch",
+        "ExactMatch"
+      ],
+      "metrics": {
+        "threshold": 0.7483212416512631,
+        "precision": 0.9714285714285714,
+        "recall": 0.7555555555555555,
+        "f1": 0.85,
+        "true_positives": 34,
+        "false_positives": 1,
+        "false_negatives": 11,
+        "true_negatives": 447,
+        "roc_auc": 0.9891617063492063,
+        "average_precision": 0.9333646078186086,
+        "predicted_edges": 35,
+        "predicted_unique_clusters": 55,
+        "predicted_redundant_records": 35
+      },
+      "model_path": "data\\linkage\\baseline\\splink-augmented-model.json",
+      "predictions_path": "data\\linkage\\baseline\\splink-augmented-predictions.parquet"
+    }
+  ],
+  "error_file": "data/linkage/baseline/errors.csv"
+}

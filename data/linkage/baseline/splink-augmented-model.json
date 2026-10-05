@@ -1,0 +1,235 @@
+{
+  "link_type": "dedupe_only",
+  "probability_two_random_records_match": 0.01,
+  "retain_matching_columns": false,
+  "retain_intermediate_calculation_columns": true,
+  "additional_columns_to_retain": [],
+  "sql_dialect": "duckdb",
+  "linker_uid": "gbg-splink-augmented-v1",
+  "em_convergence": 0.0001,
+  "max_iterations": 25,
+  "match_weight_column_prefix": "mw_",
+  "term_frequency_adjustment_column_prefix": "tf_",
+  "comparison_vector_value_column_prefix": "gamma_",
+  "unique_id_column_name": "unique_id",
+  "source_dataset_column_name": "source_dataset",
+  "blocking_rules_to_generate_predictions": [
+    {
+      "blocking_rule": "l.\"clinic_id\" = r.\"clinic_id\"",
+      "sql_dialect": "duckdb"
+    }
+  ],
+  "comparisons": [
+    {
+      "output_column_name": "summary_embedding",
+      "comparison_levels": [
+        {
+          "sql_condition": "\"summary_embedding_l\" IS NULL OR \"summary_embedding_r\" IS NULL",
+          "label_for_charts": "summary_embedding is NULL",
+          "fix_m_probability": false,
+          "fix_u_probability": false,
+          "is_null_level": true
+        },
+        {
+          "sql_condition": "array_cosine_similarity(\"summary_embedding_l\", \"summary_embedding_r\") >= 0.97",
+          "label_for_charts": "Cosine similarity of summary_embedding >= 0.97",
+          "m_probability": 0.08988601132394786,
+          "u_probability": 0.000749063670411985,
+          "fix_m_probability": false,
+          "fix_u_probability": false
+        },
+        {
+          "sql_condition": "array_cosine_similarity(\"summary_embedding_l\", \"summary_embedding_r\") >= 0.94",
+          "label_for_charts": "Cosine similarity of summary_embedding >= 0.94",
+          "m_probability": 0.20307186560106782,
+          "u_probability": 0.0019975031210986267,
+          "fix_m_probability": false,
+          "fix_u_probability": false
+        },
+        {
+          "sql_condition": "array_cosine_similarity(\"summary_embedding_l\", \"summary_embedding_r\") >= 0.91",
+          "label_for_charts": "Cosine similarity of summary_embedding >= 0.91",
+          "m_probability": 0.27922381520066836,
+          "u_probability": 0.0027465667915106116,
+          "fix_m_probability": false,
+          "fix_u_probability": false
+        },
+        {
+          "sql_condition": "array_cosine_similarity(\"summary_embedding_l\", \"summary_embedding_r\") >= 0.88",
+          "label_for_charts": "Cosine similarity of summary_embedding >= 0.88",
+          "m_probability": 0.31041974987198107,
+          "u_probability": 0.003995006242197253,
+          "fix_m_probability": false,
+          "fix_u_probability": false
+        },
+        {
+          "sql_condition": "array_cosine_similarity(\"summary_embedding_l\", \"summary_embedding_r\") >= 0.85",
+          "label_for_charts": "Cosine similarity of summary_embedding >= 0.85",
+          "m_probability": 0.11739642597310883,
+          "u_probability": 0.006491885143570537,
+          "fix_m_probability": false,
+          "fix_u_probability": false
+        },
+        {
+          "sql_condition": "array_cosine_similarity(\"summary_embedding_l\", \"summary_embedding_r\") >= 0.8",
+          "label_for_charts": "Cosine similarity of summary_embedding >= 0.8",
+          "m_probability": 2.13202848223084e-06,
+          "u_probability": 0.03870162297128589,
+          "fix_m_probability": false,
+          "fix_u_probability": false
+        },
+        {
+          "sql_condition": "array_cosine_similarity(\"summary_embedding_l\", \"summary_embedding_r\") >= 0.7",
+          "label_for_charts": "Cosine similarity of summary_embedding >= 0.7",
+          "m_probability": 7.43755656933318e-13,
+          "u_probability": 0.1453183520599251,
+          "fix_m_probability": false,
+          "fix_u_probability": false
+        },
+        {
+          "sql_condition": "ELSE",
+          "label_for_charts": "All other comparisons",
+          "m_probability": 2.042472895681826e-21,
+          "u_probability": 0.8,
+          "fix_m_probability": false,
+          "fix_u_probability": false
+        }
+      ],
+      "comparison_description": "CosineSimilarityAtThresholds"
+    },
+    {
+      "output_column_name": "summary_text",
+      "comparison_levels": [
+        {
+          "sql_condition": "\"summary_text_l\" IS NULL OR \"summary_text_r\" IS NULL",
+          "label_for_charts": "summary_text is NULL",
+          "fix_m_probability": false,
+          "fix_u_probability": false,
+          "is_null_level": true
+        },
+        {
+          "sql_condition": "\"summary_text_l\" = \"summary_text_r\"",
+          "label_for_charts": "Exact match on summary_text",
+          "fix_m_probability": false,
+          "fix_u_probability": false
+        },
+        {
+          "sql_condition": "jaro_winkler_similarity(\"summary_text_l\", \"summary_text_r\") >= 0.95",
+          "label_for_charts": "Jaro-Winkler distance of summary_text >= 0.95",
+          "m_probability": 0.03184175847590516,
+          "u_probability": 0.00024968789013732833,
+          "fix_m_probability": false,
+          "fix_u_probability": false
+        },
+        {
+          "sql_condition": "jaro_winkler_similarity(\"summary_text_l\", \"summary_text_r\") >= 0.9",
+          "label_for_charts": "Jaro-Winkler distance of summary_text >= 0.9",
+          "m_probability": 0.03184175847590516,
+          "u_probability": 0.00024968789013732833,
+          "fix_m_probability": false,
+          "fix_u_probability": false
+        },
+        {
+          "sql_condition": "jaro_winkler_similarity(\"summary_text_l\", \"summary_text_r\") >= 0.85",
+          "label_for_charts": "Jaro-Winkler distance of summary_text >= 0.85",
+          "m_probability": 0.9363164830481897,
+          "u_probability": 0.762796504369538,
+          "fix_m_probability": false,
+          "fix_u_probability": false
+        },
+        {
+          "sql_condition": "jaro_winkler_similarity(\"summary_text_l\", \"summary_text_r\") >= 0.8",
+          "label_for_charts": "Jaro-Winkler distance of summary_text >= 0.8",
+          "m_probability": 1.96743789187993e-151,
+          "u_probability": 0.22671660424469414,
+          "fix_m_probability": false,
+          "fix_u_probability": false
+        },
+        {
+          "sql_condition": "jaro_winkler_similarity(\"summary_text_l\", \"summary_text_r\") >= 0.75",
+          "label_for_charts": "Jaro-Winkler distance of summary_text >= 0.75",
+          "fix_m_probability": false,
+          "fix_u_probability": false
+        },
+        {
+          "sql_condition": "jaro_winkler_similarity(\"summary_text_l\", \"summary_text_r\") >= 0.7",
+          "label_for_charts": "Jaro-Winkler distance of summary_text >= 0.7",
+          "fix_m_probability": false,
+          "fix_u_probability": false
+        },
+        {
+          "sql_condition": "jaro_winkler_similarity(\"summary_text_l\", \"summary_text_r\") >= 0.6",
+          "label_for_charts": "Jaro-Winkler distance of summary_text >= 0.6",
+          "u_probability": 0.009987515605493134,
+          "fix_m_probability": false,
+          "fix_u_probability": false
+        },
+        {
+          "sql_condition": "ELSE",
+          "label_for_charts": "All other comparisons",
+          "fix_m_probability": false,
+          "fix_u_probability": false
+        }
+      ],
+      "comparison_description": "JaroWinklerAtThresholds"
+    },
+    {
+      "output_column_name": "rating",
+      "comparison_levels": [
+        {
+          "sql_condition": "\"rating_l\" IS NULL OR \"rating_r\" IS NULL",
+          "label_for_charts": "rating is NULL",
+          "fix_m_probability": false,
+          "fix_u_probability": false,
+          "is_null_level": true
+        },
+        {
+          "sql_condition": "\"rating_l\" = \"rating_r\"",
+          "label_for_charts": "Exact match on rating",
+          "m_probability": 1.0,
+          "u_probability": 0.652434456928839,
+          "fix_m_probability": false,
+          "fix_u_probability": false
+        },
+        {
+          "sql_condition": "ELSE",
+          "label_for_charts": "All other comparisons",
+          "m_probability": 3.256405864129172e-37,
+          "u_probability": 0.34756554307116105,
+          "fix_m_probability": false,
+          "fix_u_probability": false
+        }
+      ],
+      "comparison_description": "ExactMatch"
+    },
+    {
+      "output_column_name": "review_date",
+      "comparison_levels": [
+        {
+          "sql_condition": "\"review_date_l\" IS NULL OR \"review_date_r\" IS NULL",
+          "label_for_charts": "review_date is NULL",
+          "fix_m_probability": false,
+          "fix_u_probability": false,
+          "is_null_level": true
+        },
+        {
+          "sql_condition": "\"review_date_l\" = \"review_date_r\"",
+          "label_for_charts": "Exact match on review_date",
+          "m_probability": 1.0,
+          "u_probability": 0.4966292134831461,
+          "fix_m_probability": false,
+          "fix_u_probability": false
+        },
+        {
+          "sql_condition": "ELSE",
+          "label_for_charts": "All other comparisons",
+          "m_probability": 2.118921892785072e-92,
+          "u_probability": 0.503370786516854,
+          "fix_m_probability": false,
+          "fix_u_probability": false
+        }
+      ],
+      "comparison_description": "ExactMatch"
+    }
+  ]
+}

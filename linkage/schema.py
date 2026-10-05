@@ -2,9 +2,12 @@ from __future__ import annotations
 
 import pyarrow as pa
 
-# One flat row per observed review record.  Keep this aligned with Splink's
+EMBEDDING_DIMENSIONS = 1024
+
+# One flat row per observed review record. Keep this aligned with Splink's
 # default unique_id/source_dataset conventions so the adapter needs minimal
-# custom configuration.
+# custom configuration. The embedding is a fixed-size array because DuckDB's
+# array_cosine_similarity() requires ARRAY rather than a variable-length LIST.
 LINKAGE_RECORD_SCHEMA = pa.schema(
     [
         pa.field("unique_id", pa.string(), nullable=False),
@@ -22,7 +25,11 @@ LINKAGE_RECORD_SCHEMA = pa.schema(
         pa.field("rating", pa.float32(), nullable=True),
         pa.field("reviewer_initial", pa.string(), nullable=True),
         pa.field("summary_text", pa.string(), nullable=False),
-        pa.field("summary_embedding", pa.list_(pa.float32()), nullable=True),
+        pa.field(
+            "summary_embedding",
+            pa.list_(pa.float32(), list_size=EMBEDDING_DIMENSIONS),
+            nullable=True,
+        ),
     ]
 )
 
@@ -71,3 +78,13 @@ def validate_linkage_table(table: pa.Table) -> None:
     languages = set(table.column("language").to_pylist())
     if not languages <= SUPPORTED_LANGUAGES:
         raise ValueError(f"Unsupported language values: {sorted(languages)}")
+
+    embeddings = table.column("summary_embedding").to_pylist()
+    invalid_lengths = sorted(
+        {len(vector) for vector in embeddings if vector is not None and len(vector) != EMBEDDING_DIMENSIONS}
+    )
+    if invalid_lengths:
+        raise ValueError(
+            f"summary_embedding must contain {EMBEDDING_DIMENSIONS} values; "
+            f"invalid lengths: {invalid_lengths}"
+        )

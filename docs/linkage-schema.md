@@ -27,15 +27,15 @@ It contains only fields that are useful for provenance, blocking, linkage, or pr
 | `rating` | float32 | no | Exposed rating, preserving half-star values. |
 | `reviewer_initial` | string | no | Display/provenance field. Not expected to carry useful linkage evidence. |
 | `summary_text` | string | yes | The captured English review summary. |
-| `summary_embedding` | float32[] | no | Derived sentence embedding used for semantic comparison. Null until embeddings are generated. |
+| `summary_embedding` | float32[1024] | no | Fixed-size Qwen3 embedding used for semantic comparison. Fixed width is required by DuckDB `array_cosine_similarity`; null until embeddings are generated. |
 
 ## Current Splink use
 
-The first model should use:
+The current baseline uses:
 
 - **blocking:** exact `clinic_id`
 - **primary comparison:** cosine similarity on `summary_embedding`
-- **secondary comparisons:** lexical similarity on `summary_text`, rating agreement, and review-date agreement only if validation shows they help
+- **secondary comparisons:** Jaro-Winkler similarity on `summary_text`, exact rating agreement, and exact review-date agreement; calibration showed these substantially reduce false positives
 
 `source_dataset`, provenance fields, clinic display name, reviewer initial, and capture date are
 not model evidence.
