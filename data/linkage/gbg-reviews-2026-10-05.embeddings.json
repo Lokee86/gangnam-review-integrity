@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-10-05T19:34:23.378550+00:00",
+  "input": "data\\linkage\\gbg-reviews-2026-10-05.parquet",
+  "output": "data\\linkage\\gbg-reviews-2026-10-05.parquet",
+  "endpoint": "https://openrouter.ai/api/v1/embeddings",
+  "model": "qwen/qwen3-embedding-8b",
+  "dimensions": 1024,
+  "encoding_format": "float",
+  "local_postprocessing": "L2 normalization",
+  "record_count": 90,
+  "batch_size": 32,
+  "norm_min": 0.9999999999999984,
+  "norm_max": 1.000000000000002,
+  "usage": {
+    "prompt_tokens": 6962,
+    "total_tokens": 6962,
+    "is_byok": 0
+  }
+}
