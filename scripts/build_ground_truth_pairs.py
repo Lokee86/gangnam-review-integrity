@@ -8,6 +8,7 @@ ROOT = Path(__file__).resolve().parents[1]
 SNAPSHOT = ROOT / "data" / "gbg-reviews-2026-10-05.json"
 CLUSTERS = ROOT / "data" / "ground-truth" / "gbg-review-duplicate-clusters-2026-10-05.json"
 OUT = ROOT / "data" / "ground-truth" / "gbg-review-pair-labels-2026-10-05.csv"
+SOURCE_DATASET = "gbg-reviews-2026-10-05"
 
 snapshot = json.loads(SNAPSHOT.read_text(encoding="utf-8"))
 truth = json.loads(CLUSTERS.read_text(encoding="utf-8"))
@@ -54,13 +55,10 @@ for left_index, left_id in enumerate(ids):
 
         rows.append(
             {
-                "left_id": left_id,
-                "right_id": right_id,
-                "clinic": left["clinic_name"],
-                "left_date": left["review_date"],
-                "right_date": right["review_date"],
-                "left_rating": left["rating"],
-                "right_rating": right["rating"],
+                "source_dataset_l": SOURCE_DATASET,
+                "unique_id_l": left_id,
+                "source_dataset_r": SOURCE_DATASET,
+                "unique_id_r": right_id,
                 "label": label,
                 "confidence": confidence,
                 "duplicate_cluster_id": cluster_id,
@@ -69,13 +67,10 @@ for left_index, left_id in enumerate(ids):
         )
 
 fieldnames = [
-    "left_id",
-    "right_id",
-    "clinic",
-    "left_date",
-    "right_date",
-    "left_rating",
-    "right_rating",
+    "source_dataset_l",
+    "unique_id_l",
+    "source_dataset_r",
+    "unique_id_r",
     "label",
     "confidence",
     "duplicate_cluster_id",

@@ -1,494 +1,494 @@
-left_id,right_id,clinic,left_date,right_date,left_rating,right_rating,label,confidence,duplicate_cluster_id,rationale
-gbg-2026-10-05-001,gbg-2026-10-05-006,Nana PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-001,gbg-2026-10-05-029,Nana PS,2026-04-13,2026-04-13,5,5,duplicate,high,gt-028,rhinitis + low-nose surgery; same-day normal activity; no complications
-gbg-2026-10-05-001,gbg-2026-10-05-033,Nana PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-002,gbg-2026-10-05-003,View PS,2026-04-13,2026-04-13,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-002,gbg-2026-10-05-007,View PS,2026-04-13,2026-04-13,4,4,duplicate,high,gt-035,sleepy eyes; straining to open; easier makeup; natural result
-gbg-2026-10-05-002,gbg-2026-10-05-009,View PS,2026-04-13,2026-04-13,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-002,gbg-2026-10-05-020,View PS,2026-04-13,2026-04-13,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-002,gbg-2026-10-05-027,View PS,2026-04-13,2026-04-13,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-002,gbg-2026-10-05-028,View PS,2026-04-13,2026-04-13,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-002,gbg-2026-10-05-041,View PS,2026-04-13,2026-04-13,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-002,gbg-2026-10-05-043,View PS,2026-04-13,2026-04-13,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-002,gbg-2026-10-05-047,View PS,2026-04-13,2026-04-13,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-002,gbg-2026-10-05-056,View PS,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-002,gbg-2026-10-05-057,View PS,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-002,gbg-2026-10-05-058,View PS,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-002,gbg-2026-10-05-059,View PS,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-002,gbg-2026-10-05-061,View PS,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-002,gbg-2026-10-05-064,View PS,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-002,gbg-2026-10-05-065,View PS,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-002,gbg-2026-10-05-066,View PS,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-002,gbg-2026-10-05-080,View PS,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-002,gbg-2026-10-05-081,View PS,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-002,gbg-2026-10-05-084,View PS,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-002,gbg-2026-10-05-089,View PS,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-003,gbg-2026-10-05-007,View PS,2026-04-13,2026-04-13,5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-003,gbg-2026-10-05-009,View PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-003,gbg-2026-10-05-020,View PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-003,gbg-2026-10-05-027,View PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-003,gbg-2026-10-05-028,View PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-003,gbg-2026-10-05-041,View PS,2026-04-13,2026-04-13,5,5,duplicate,high,gt-036,jaw/facial contour; hard first week; 2-week swelling; 2–3 month slimming
-gbg-2026-10-05-003,gbg-2026-10-05-043,View PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-003,gbg-2026-10-05-047,View PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-003,gbg-2026-10-05-056,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-003,gbg-2026-10-05-057,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-003,gbg-2026-10-05-058,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-003,gbg-2026-10-05-059,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-003,gbg-2026-10-05-061,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-003,gbg-2026-10-05-064,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-003,gbg-2026-10-05-065,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-003,gbg-2026-10-05-066,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-003,gbg-2026-10-05-080,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-003,gbg-2026-10-05-081,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-003,gbg-2026-10-05-084,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-003,gbg-2026-10-05-089,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-004,gbg-2026-10-05-034,Marble PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-004,gbg-2026-10-05-044,Marble PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-004,gbg-2026-10-05-045,Marble PS,2026-04-13,2026-04-13,5,5,duplicate,high,gt-025,long/humped/wide-nose osteotomy; same refined result and aftercare
-gbg-2026-10-05-004,gbg-2026-10-05-052,Marble PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-004,gbg-2026-10-05-053,Marble PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-005,gbg-2026-10-05-048,Chai PS,2026-04-13,2026-04-13,5,5,duplicate,high,gt-004,revision eyelid; loosened left crease; mild recovery
-gbg-2026-10-05-005,gbg-2026-10-05-049,Chai PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-005,gbg-2026-10-05-050,Chai PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-006,gbg-2026-10-05-029,Nana PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-006,gbg-2026-10-05-033,Nana PS,2026-04-13,2026-04-13,5,5,duplicate,high,gt-029,Motiva augmentation; six-month natural result; friends/family reaction
-gbg-2026-10-05-007,gbg-2026-10-05-009,View PS,2026-04-13,2026-04-13,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-007,gbg-2026-10-05-020,View PS,2026-04-13,2026-04-13,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-007,gbg-2026-10-05-027,View PS,2026-04-13,2026-04-13,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-007,gbg-2026-10-05-028,View PS,2026-04-13,2026-04-13,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-007,gbg-2026-10-05-041,View PS,2026-04-13,2026-04-13,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-007,gbg-2026-10-05-043,View PS,2026-04-13,2026-04-13,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-007,gbg-2026-10-05-047,View PS,2026-04-13,2026-04-13,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-007,gbg-2026-10-05-056,View PS,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-007,gbg-2026-10-05-057,View PS,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-007,gbg-2026-10-05-058,View PS,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-007,gbg-2026-10-05-059,View PS,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-007,gbg-2026-10-05-061,View PS,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-007,gbg-2026-10-05-064,View PS,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-007,gbg-2026-10-05-065,View PS,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-007,gbg-2026-10-05-066,View PS,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-007,gbg-2026-10-05-080,View PS,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-007,gbg-2026-10-05-081,View PS,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-007,gbg-2026-10-05-084,View PS,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-007,gbg-2026-10-05-089,View PS,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-008,gbg-2026-10-05-013,AB PS,2026-04-13,2026-04-13,5,5,duplicate,high,gt-001,third rhinoplasty; two prior failures; drooping tip
-gbg-2026-10-05-009,gbg-2026-10-05-020,View PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-009,gbg-2026-10-05-027,View PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-009,gbg-2026-10-05-028,View PS,2026-04-13,2026-04-13,5,5,duplicate,high,gt-037,eyelid + epicanthoplasty/correction; tape use; day-one swelling; cooling
-gbg-2026-10-05-009,gbg-2026-10-05-041,View PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-009,gbg-2026-10-05-043,View PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-009,gbg-2026-10-05-047,View PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-009,gbg-2026-10-05-056,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-009,gbg-2026-10-05-057,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-009,gbg-2026-10-05-058,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-009,gbg-2026-10-05-059,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-009,gbg-2026-10-05-061,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-009,gbg-2026-10-05-064,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-009,gbg-2026-10-05-065,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-009,gbg-2026-10-05-066,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-009,gbg-2026-10-05-080,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-009,gbg-2026-10-05-081,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-009,gbg-2026-10-05-084,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-009,gbg-2026-10-05-089,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-010,gbg-2026-10-05-026,Girin PS,2026-04-13,2026-04-13,5,5,duplicate,high,gt-018,revision eyelid after loosened non-incisional result; painful recovery; higher price
-gbg-2026-10-05-010,gbg-2026-10-05-071,Girin PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-010,gbg-2026-10-05-072,Girin PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-011,gbg-2026-10-05-018,G clinic,2026-04-13,2026-04-13,4.5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-011,gbg-2026-10-05-039,G clinic,2026-04-13,2026-04-13,4.5,4.5,duplicate,high,gt-010,repeat face-slimming treatment after three months; short wait
-gbg-2026-10-05-011,gbg-2026-10-05-040,G clinic,2026-04-13,2026-04-13,4.5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-011,gbg-2026-10-05-051,G clinic,2026-04-13,2026-04-12,4.5,4.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-011,gbg-2026-10-05-054,G clinic,2026-04-13,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-011,gbg-2026-10-05-060,G clinic,2026-04-13,2026-04-12,4.5,4.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-011,gbg-2026-10-05-062,G clinic,2026-04-13,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-011,gbg-2026-10-05-073,G clinic,2026-04-13,2026-04-12,4.5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-011,gbg-2026-10-05-074,G clinic,2026-04-13,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-011,gbg-2026-10-05-075,G clinic,2026-04-13,2026-04-12,4.5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-011,gbg-2026-10-05-076,G clinic,2026-04-13,2026-04-12,4.5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-011,gbg-2026-10-05-077,G clinic,2026-04-13,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-011,gbg-2026-10-05-078,G clinic,2026-04-13,2026-04-12,4.5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-011,gbg-2026-10-05-085,G clinic,2026-04-13,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-011,gbg-2026-10-05-086,G clinic,2026-04-13,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-012,gbg-2026-10-05-019,Pop PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-012,gbg-2026-10-05-025,Pop PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-012,gbg-2026-10-05-035,Pop PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-012,gbg-2026-10-05-036,Pop PS,2026-04-13,2026-04-13,5,5,duplicate,high,gt-030,epicanthal-fold eye-corner procedure; itching; low swelling/pain; long wait
-gbg-2026-10-05-012,gbg-2026-10-05-037,Pop PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-012,gbg-2026-10-05-042,Pop PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-012,gbg-2026-10-05-046,Pop PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-014,gbg-2026-10-05-015,Hit PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-014,gbg-2026-10-05-021,Hit PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-014,gbg-2026-10-05-023,Hit PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-014,gbg-2026-10-05-024,Hit PS,2026-04-13,2026-04-13,5,5,duplicate,high,gt-020,3-month forehead lift; itching/hair loss; delayed follow-up injection
-gbg-2026-10-05-014,gbg-2026-10-05-031,Hit PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-014,gbg-2026-10-05-032,Hit PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-014,gbg-2026-10-05-038,Hit PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-014,gbg-2026-10-05-055,Hit PS,2026-04-13,2026-04-12,5,4.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-014,gbg-2026-10-05-063,Hit PS,2026-04-13,2026-04-12,5,4.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-015,gbg-2026-10-05-021,Hit PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-015,gbg-2026-10-05-023,Hit PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-015,gbg-2026-10-05-024,Hit PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-015,gbg-2026-10-05-031,Hit PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-015,gbg-2026-10-05-032,Hit PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-015,gbg-2026-10-05-038,Hit PS,2026-04-13,2026-04-13,5,5,duplicate,high,gt-021,complex rhinoplasty with rib cartilage; minimal swelling/bruising
-gbg-2026-10-05-015,gbg-2026-10-05-055,Hit PS,2026-04-13,2026-04-12,5,4.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-015,gbg-2026-10-05-063,Hit PS,2026-04-13,2026-04-12,5,4.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-016,gbg-2026-10-05-017,DA PS,2026-04-13,2026-04-13,4.5,4.5,duplicate,high,gt-006,revision eyelid/canthoplasty; 2-week swelling; high cost; long wait
-gbg-2026-10-05-016,gbg-2026-10-05-079,DA PS,2026-04-13,2026-04-12,4.5,3.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-016,gbg-2026-10-05-082,DA PS,2026-04-13,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-016,gbg-2026-10-05-083,DA PS,2026-04-13,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-016,gbg-2026-10-05-087,DA PS,2026-04-13,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-016,gbg-2026-10-05-088,DA PS,2026-04-13,2026-04-12,4.5,3.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-016,gbg-2026-10-05-090,DA PS,2026-04-13,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-017,gbg-2026-10-05-079,DA PS,2026-04-13,2026-04-12,4.5,3.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-017,gbg-2026-10-05-082,DA PS,2026-04-13,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-017,gbg-2026-10-05-083,DA PS,2026-04-13,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-017,gbg-2026-10-05-087,DA PS,2026-04-13,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-017,gbg-2026-10-05-088,DA PS,2026-04-13,2026-04-12,4.5,3.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-017,gbg-2026-10-05-090,DA PS,2026-04-13,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-018,gbg-2026-10-05-039,G clinic,2026-04-13,2026-04-13,4,4.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-018,gbg-2026-10-05-040,G clinic,2026-04-13,2026-04-13,4,4,duplicate,high,gt-011,shoulder Botox; under 15 minutes; paid needle change; curt counseling
-gbg-2026-10-05-018,gbg-2026-10-05-051,G clinic,2026-04-13,2026-04-12,4,4.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-018,gbg-2026-10-05-054,G clinic,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-018,gbg-2026-10-05-060,G clinic,2026-04-13,2026-04-12,4,4.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-018,gbg-2026-10-05-062,G clinic,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-018,gbg-2026-10-05-073,G clinic,2026-04-13,2026-04-12,4,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-018,gbg-2026-10-05-074,G clinic,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-018,gbg-2026-10-05-075,G clinic,2026-04-13,2026-04-12,4,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-018,gbg-2026-10-05-076,G clinic,2026-04-13,2026-04-12,4,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-018,gbg-2026-10-05-077,G clinic,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-018,gbg-2026-10-05-078,G clinic,2026-04-13,2026-04-12,4,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-018,gbg-2026-10-05-085,G clinic,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-018,gbg-2026-10-05-086,G clinic,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-019,gbg-2026-10-05-025,Pop PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-019,gbg-2026-10-05-035,Pop PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-019,gbg-2026-10-05-036,Pop PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-019,gbg-2026-10-05-037,Pop PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-019,gbg-2026-10-05-042,Pop PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-019,gbg-2026-10-05-046,Pop PS,2026-04-13,2026-04-13,5,5,duplicate,high,gt-031,natural-adhesion eyelid + corner corrections; mild swelling; natural result
-gbg-2026-10-05-020,gbg-2026-10-05-027,View PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-020,gbg-2026-10-05-028,View PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-020,gbg-2026-10-05-041,View PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-020,gbg-2026-10-05-043,View PS,2026-04-13,2026-04-13,5,5,duplicate,high,gt-038,eye-opening correction; 2-week swelling; 1-month natural; 2-month strength
-gbg-2026-10-05-020,gbg-2026-10-05-047,View PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-020,gbg-2026-10-05-056,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-020,gbg-2026-10-05-057,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-020,gbg-2026-10-05-058,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-020,gbg-2026-10-05-059,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-020,gbg-2026-10-05-061,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-020,gbg-2026-10-05-064,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-020,gbg-2026-10-05-065,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-020,gbg-2026-10-05-066,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-020,gbg-2026-10-05-080,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-020,gbg-2026-10-05-081,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-020,gbg-2026-10-05-084,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-020,gbg-2026-10-05-089,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-021,gbg-2026-10-05-023,Hit PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-021,gbg-2026-10-05-024,Hit PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-021,gbg-2026-10-05-031,Hit PS,2026-04-13,2026-04-13,5,5,duplicate,high,gt-022,facial liposuction + thread lift; no bruising/scar; quick return
-gbg-2026-10-05-021,gbg-2026-10-05-032,Hit PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-021,gbg-2026-10-05-038,Hit PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-021,gbg-2026-10-05-055,Hit PS,2026-04-13,2026-04-12,5,4.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-021,gbg-2026-10-05-063,Hit PS,2026-04-13,2026-04-12,5,4.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-022,gbg-2026-10-05-030,Saekim PS,2026-04-13,2026-04-13,5,5,duplicate,high,gt-034,chin pin removal; 2-month symptom resolution; easier recovery
-gbg-2026-10-05-023,gbg-2026-10-05-024,Hit PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-023,gbg-2026-10-05-031,Hit PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-023,gbg-2026-10-05-032,Hit PS,2026-04-13,2026-04-13,5,5,duplicate,high,gt-023,combined contour/rhinoplasty/forehead/lipo/thread-lift; no complications
-gbg-2026-10-05-023,gbg-2026-10-05-038,Hit PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-023,gbg-2026-10-05-055,Hit PS,2026-04-13,2026-04-12,5,4.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-023,gbg-2026-10-05-063,Hit PS,2026-04-13,2026-04-12,5,4.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-024,gbg-2026-10-05-031,Hit PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-024,gbg-2026-10-05-032,Hit PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-024,gbg-2026-10-05-038,Hit PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-024,gbg-2026-10-05-055,Hit PS,2026-04-13,2026-04-12,5,4.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-024,gbg-2026-10-05-063,Hit PS,2026-04-13,2026-04-12,5,4.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-025,gbg-2026-10-05-035,Pop PS,2026-04-13,2026-04-13,5,5,duplicate,high,gt-032,revision natural-adhesion eyelid after ~8-year faded result
-gbg-2026-10-05-025,gbg-2026-10-05-036,Pop PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-025,gbg-2026-10-05-037,Pop PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-025,gbg-2026-10-05-042,Pop PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-025,gbg-2026-10-05-046,Pop PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-026,gbg-2026-10-05-071,Girin PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-026,gbg-2026-10-05-072,Girin PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-027,gbg-2026-10-05-028,View PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-027,gbg-2026-10-05-041,View PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-027,gbg-2026-10-05-043,View PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-027,gbg-2026-10-05-047,View PS,2026-04-13,2026-04-13,5,5,duplicate,high,gt-039,eyelid surgery for harsh eye shape; settled by three months
-gbg-2026-10-05-027,gbg-2026-10-05-056,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-027,gbg-2026-10-05-057,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-027,gbg-2026-10-05-058,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-027,gbg-2026-10-05-059,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-027,gbg-2026-10-05-061,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-027,gbg-2026-10-05-064,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-027,gbg-2026-10-05-065,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-027,gbg-2026-10-05-066,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-027,gbg-2026-10-05-080,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-027,gbg-2026-10-05-081,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-027,gbg-2026-10-05-084,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-027,gbg-2026-10-05-089,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-028,gbg-2026-10-05-041,View PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-028,gbg-2026-10-05-043,View PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-028,gbg-2026-10-05-047,View PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-028,gbg-2026-10-05-056,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-028,gbg-2026-10-05-057,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-028,gbg-2026-10-05-058,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-028,gbg-2026-10-05-059,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-028,gbg-2026-10-05-061,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-028,gbg-2026-10-05-064,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-028,gbg-2026-10-05-065,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-028,gbg-2026-10-05-066,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-028,gbg-2026-10-05-080,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-028,gbg-2026-10-05-081,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-028,gbg-2026-10-05-084,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-028,gbg-2026-10-05-089,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-029,gbg-2026-10-05-033,Nana PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-031,gbg-2026-10-05-032,Hit PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-031,gbg-2026-10-05-038,Hit PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-031,gbg-2026-10-05-055,Hit PS,2026-04-13,2026-04-12,5,4.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-031,gbg-2026-10-05-063,Hit PS,2026-04-13,2026-04-12,5,4.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-032,gbg-2026-10-05-038,Hit PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-032,gbg-2026-10-05-055,Hit PS,2026-04-13,2026-04-12,5,4.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-032,gbg-2026-10-05-063,Hit PS,2026-04-13,2026-04-12,5,4.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-034,gbg-2026-10-05-044,Marble PS,2026-04-13,2026-04-13,5,5,duplicate,high,gt-026,breast augmentation for low volume/asymmetry; minimal bleeding; fast recovery
-gbg-2026-10-05-034,gbg-2026-10-05-045,Marble PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-034,gbg-2026-10-05-052,Marble PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-034,gbg-2026-10-05-053,Marble PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-035,gbg-2026-10-05-036,Pop PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-035,gbg-2026-10-05-037,Pop PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-035,gbg-2026-10-05-042,Pop PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-035,gbg-2026-10-05-046,Pop PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-036,gbg-2026-10-05-037,Pop PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-036,gbg-2026-10-05-042,Pop PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-036,gbg-2026-10-05-046,Pop PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-037,gbg-2026-10-05-042,Pop PS,2026-04-13,2026-04-13,5,5,duplicate,high,gt-033,natural-adhesion/buried-suture eyelid; little swelling; immediate school return
-gbg-2026-10-05-037,gbg-2026-10-05-046,Pop PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-038,gbg-2026-10-05-055,Hit PS,2026-04-13,2026-04-12,5,4.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-038,gbg-2026-10-05-063,Hit PS,2026-04-13,2026-04-12,5,4.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-039,gbg-2026-10-05-040,G clinic,2026-04-13,2026-04-13,4.5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-039,gbg-2026-10-05-051,G clinic,2026-04-13,2026-04-12,4.5,4.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-039,gbg-2026-10-05-054,G clinic,2026-04-13,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-039,gbg-2026-10-05-060,G clinic,2026-04-13,2026-04-12,4.5,4.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-039,gbg-2026-10-05-062,G clinic,2026-04-13,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-039,gbg-2026-10-05-073,G clinic,2026-04-13,2026-04-12,4.5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-039,gbg-2026-10-05-074,G clinic,2026-04-13,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-039,gbg-2026-10-05-075,G clinic,2026-04-13,2026-04-12,4.5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-039,gbg-2026-10-05-076,G clinic,2026-04-13,2026-04-12,4.5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-039,gbg-2026-10-05-077,G clinic,2026-04-13,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-039,gbg-2026-10-05-078,G clinic,2026-04-13,2026-04-12,4.5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-039,gbg-2026-10-05-085,G clinic,2026-04-13,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-039,gbg-2026-10-05-086,G clinic,2026-04-13,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-040,gbg-2026-10-05-051,G clinic,2026-04-13,2026-04-12,4,4.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-040,gbg-2026-10-05-054,G clinic,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-040,gbg-2026-10-05-060,G clinic,2026-04-13,2026-04-12,4,4.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-040,gbg-2026-10-05-062,G clinic,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-040,gbg-2026-10-05-073,G clinic,2026-04-13,2026-04-12,4,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-040,gbg-2026-10-05-074,G clinic,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-040,gbg-2026-10-05-075,G clinic,2026-04-13,2026-04-12,4,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-040,gbg-2026-10-05-076,G clinic,2026-04-13,2026-04-12,4,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-040,gbg-2026-10-05-077,G clinic,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-040,gbg-2026-10-05-078,G clinic,2026-04-13,2026-04-12,4,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-040,gbg-2026-10-05-085,G clinic,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-040,gbg-2026-10-05-086,G clinic,2026-04-13,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-041,gbg-2026-10-05-043,View PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-041,gbg-2026-10-05-047,View PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-041,gbg-2026-10-05-056,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-041,gbg-2026-10-05-057,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-041,gbg-2026-10-05-058,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-041,gbg-2026-10-05-059,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-041,gbg-2026-10-05-061,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-041,gbg-2026-10-05-064,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-041,gbg-2026-10-05-065,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-041,gbg-2026-10-05-066,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-041,gbg-2026-10-05-080,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-041,gbg-2026-10-05-081,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-041,gbg-2026-10-05-084,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-041,gbg-2026-10-05-089,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-042,gbg-2026-10-05-046,Pop PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-043,gbg-2026-10-05-047,View PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-043,gbg-2026-10-05-056,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-043,gbg-2026-10-05-057,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-043,gbg-2026-10-05-058,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-043,gbg-2026-10-05-059,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-043,gbg-2026-10-05-061,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-043,gbg-2026-10-05-064,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-043,gbg-2026-10-05-065,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-043,gbg-2026-10-05-066,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-043,gbg-2026-10-05-080,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-043,gbg-2026-10-05-081,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-043,gbg-2026-10-05-084,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-043,gbg-2026-10-05-089,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-044,gbg-2026-10-05-045,Marble PS,2026-04-13,2026-04-13,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-044,gbg-2026-10-05-052,Marble PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-044,gbg-2026-10-05-053,Marble PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-045,gbg-2026-10-05-052,Marble PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-045,gbg-2026-10-05-053,Marble PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-047,gbg-2026-10-05-056,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-047,gbg-2026-10-05-057,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-047,gbg-2026-10-05-058,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-047,gbg-2026-10-05-059,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-047,gbg-2026-10-05-061,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-047,gbg-2026-10-05-064,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-047,gbg-2026-10-05-065,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-047,gbg-2026-10-05-066,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-047,gbg-2026-10-05-080,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-047,gbg-2026-10-05-081,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-047,gbg-2026-10-05-084,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-047,gbg-2026-10-05-089,View PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-048,gbg-2026-10-05-049,Chai PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-048,gbg-2026-10-05-050,Chai PS,2026-04-13,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-049,gbg-2026-10-05-050,Chai PS,2026-04-12,2026-04-12,5,5,duplicate,medium,gt-005,posterior/lower eye-corner procedure; same one-month outcome
-gbg-2026-10-05-051,gbg-2026-10-05-054,G clinic,2026-04-12,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-051,gbg-2026-10-05-060,G clinic,2026-04-12,2026-04-12,4.5,4.5,duplicate,high,gt-012,repeat facial-slimming acupuncture; no wait; non-thinner needles; pain
-gbg-2026-10-05-051,gbg-2026-10-05-062,G clinic,2026-04-12,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-051,gbg-2026-10-05-073,G clinic,2026-04-12,2026-04-12,4.5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-051,gbg-2026-10-05-074,G clinic,2026-04-12,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-051,gbg-2026-10-05-075,G clinic,2026-04-12,2026-04-12,4.5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-051,gbg-2026-10-05-076,G clinic,2026-04-12,2026-04-12,4.5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-051,gbg-2026-10-05-077,G clinic,2026-04-12,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-051,gbg-2026-10-05-078,G clinic,2026-04-12,2026-04-12,4.5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-051,gbg-2026-10-05-085,G clinic,2026-04-12,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-051,gbg-2026-10-05-086,G clinic,2026-04-12,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-052,gbg-2026-10-05-053,Marble PS,2026-04-12,2026-04-12,5,5,duplicate,medium,gt-027,alar/nostril reduction; detailed consult; easy recovery; subtle natural result
-gbg-2026-10-05-054,gbg-2026-10-05-060,G clinic,2026-04-12,2026-04-12,5,4.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-054,gbg-2026-10-05-062,G clinic,2026-04-12,2026-04-12,5,5,duplicate,high,gt-013,facial spots/redness; spots darkened; kind staff; repeat intent
-gbg-2026-10-05-054,gbg-2026-10-05-073,G clinic,2026-04-12,2026-04-12,5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-054,gbg-2026-10-05-074,G clinic,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-054,gbg-2026-10-05-075,G clinic,2026-04-12,2026-04-12,5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-054,gbg-2026-10-05-076,G clinic,2026-04-12,2026-04-12,5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-054,gbg-2026-10-05-077,G clinic,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-054,gbg-2026-10-05-078,G clinic,2026-04-12,2026-04-12,5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-054,gbg-2026-10-05-085,G clinic,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-054,gbg-2026-10-05-086,G clinic,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-055,gbg-2026-10-05-063,Hit PS,2026-04-12,2026-04-12,4.5,4.5,duplicate,high,gt-024,2-month forehead lift; returning sensation; hair loss; follow-up waits
-gbg-2026-10-05-056,gbg-2026-10-05-057,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-056,gbg-2026-10-05-058,View PS,2026-04-12,2026-04-12,5,5,duplicate,high,gt-040,hooded/drooping tired eyes; recovery did not disrupt daily life
-gbg-2026-10-05-056,gbg-2026-10-05-059,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-056,gbg-2026-10-05-061,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-056,gbg-2026-10-05-064,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-056,gbg-2026-10-05-065,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-056,gbg-2026-10-05-066,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-056,gbg-2026-10-05-080,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-056,gbg-2026-10-05-081,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-056,gbg-2026-10-05-084,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-056,gbg-2026-10-05-089,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-057,gbg-2026-10-05-058,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-057,gbg-2026-10-05-059,View PS,2026-04-12,2026-04-12,5,5,duplicate,high,gt-041,eye-opening for small eyes; 3-week swelling; less forehead strain
-gbg-2026-10-05-057,gbg-2026-10-05-061,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-057,gbg-2026-10-05-064,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-057,gbg-2026-10-05-065,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-057,gbg-2026-10-05-066,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-057,gbg-2026-10-05-080,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-057,gbg-2026-10-05-081,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-057,gbg-2026-10-05-084,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-057,gbg-2026-10-05-089,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-058,gbg-2026-10-05-059,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-058,gbg-2026-10-05-061,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-058,gbg-2026-10-05-064,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-058,gbg-2026-10-05-065,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-058,gbg-2026-10-05-066,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-058,gbg-2026-10-05-080,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-058,gbg-2026-10-05-081,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-058,gbg-2026-10-05-084,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-058,gbg-2026-10-05-089,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-059,gbg-2026-10-05-061,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-059,gbg-2026-10-05-064,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-059,gbg-2026-10-05-065,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-059,gbg-2026-10-05-066,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-059,gbg-2026-10-05-080,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-059,gbg-2026-10-05-081,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-059,gbg-2026-10-05-084,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-059,gbg-2026-10-05-089,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-060,gbg-2026-10-05-062,G clinic,2026-04-12,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-060,gbg-2026-10-05-073,G clinic,2026-04-12,2026-04-12,4.5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-060,gbg-2026-10-05-074,G clinic,2026-04-12,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-060,gbg-2026-10-05-075,G clinic,2026-04-12,2026-04-12,4.5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-060,gbg-2026-10-05-076,G clinic,2026-04-12,2026-04-12,4.5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-060,gbg-2026-10-05-077,G clinic,2026-04-12,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-060,gbg-2026-10-05-078,G clinic,2026-04-12,2026-04-12,4.5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-060,gbg-2026-10-05-085,G clinic,2026-04-12,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-060,gbg-2026-10-05-086,G clinic,2026-04-12,2026-04-12,4.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-061,gbg-2026-10-05-064,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-061,gbg-2026-10-05-065,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-061,gbg-2026-10-05-066,View PS,2026-04-12,2026-04-12,5,5,duplicate,high,gt-042,breast lift in 50s; age-related sagging; strong one-month satisfaction
-gbg-2026-10-05-061,gbg-2026-10-05-080,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-061,gbg-2026-10-05-081,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-061,gbg-2026-10-05-084,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-061,gbg-2026-10-05-089,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-062,gbg-2026-10-05-073,G clinic,2026-04-12,2026-04-12,5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-062,gbg-2026-10-05-074,G clinic,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-062,gbg-2026-10-05-075,G clinic,2026-04-12,2026-04-12,5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-062,gbg-2026-10-05-076,G clinic,2026-04-12,2026-04-12,5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-062,gbg-2026-10-05-077,G clinic,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-062,gbg-2026-10-05-078,G clinic,2026-04-12,2026-04-12,5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-062,gbg-2026-10-05-085,G clinic,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-062,gbg-2026-10-05-086,G clinic,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-064,gbg-2026-10-05-065,View PS,2026-04-12,2026-04-12,5,5,duplicate,high,gt-043,double eyelid + inner-corner correction; mild recovery; thinner natural line
-gbg-2026-10-05-064,gbg-2026-10-05-066,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-064,gbg-2026-10-05-080,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-064,gbg-2026-10-05-081,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-064,gbg-2026-10-05-084,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-064,gbg-2026-10-05-089,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-065,gbg-2026-10-05-066,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-065,gbg-2026-10-05-080,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-065,gbg-2026-10-05-081,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-065,gbg-2026-10-05-084,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-065,gbg-2026-10-05-089,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-066,gbg-2026-10-05-080,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-066,gbg-2026-10-05-081,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-066,gbg-2026-10-05-084,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-066,gbg-2026-10-05-089,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-067,gbg-2026-10-05-068,Braun PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-067,gbg-2026-10-05-069,Braun PS,2026-04-12,2026-04-12,5,5,duplicate,high,gt-002,wide-nose rhinoplasty; same 8-week recovery
-gbg-2026-10-05-067,gbg-2026-10-05-070,Braun PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-068,gbg-2026-10-05-069,Braun PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-068,gbg-2026-10-05-070,Braun PS,2026-04-12,2026-04-12,5,5,duplicate,high,gt-003,drooping/small-eye eyelid surgery; same 6-week recovery
-gbg-2026-10-05-069,gbg-2026-10-05-070,Braun PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-071,gbg-2026-10-05-072,Girin PS,2026-04-12,2026-04-12,5,5,duplicate,high,gt-019,eye-lowering surgery; conjunctival swelling; two-week daily-life recovery
-gbg-2026-10-05-073,gbg-2026-10-05-074,G clinic,2026-04-12,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-073,gbg-2026-10-05-075,G clinic,2026-04-12,2026-04-12,4,4,duplicate,high,gt-014,bite/grinding/jaw fatigue; under 30 minutes; too early to judge
-gbg-2026-10-05-073,gbg-2026-10-05-076,G clinic,2026-04-12,2026-04-12,4,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-073,gbg-2026-10-05-077,G clinic,2026-04-12,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-073,gbg-2026-10-05-078,G clinic,2026-04-12,2026-04-12,4,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-073,gbg-2026-10-05-085,G clinic,2026-04-12,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-073,gbg-2026-10-05-086,G clinic,2026-04-12,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-074,gbg-2026-10-05-075,G clinic,2026-04-12,2026-04-12,5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-074,gbg-2026-10-05-076,G clinic,2026-04-12,2026-04-12,5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-074,gbg-2026-10-05-077,G clinic,2026-04-12,2026-04-12,5,5,duplicate,high,gt-015,smaller-face/shoulder-stiffness treatment; no downtime; eating discomfort
-gbg-2026-10-05-074,gbg-2026-10-05-078,G clinic,2026-04-12,2026-04-12,5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-074,gbg-2026-10-05-085,G clinic,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-074,gbg-2026-10-05-086,G clinic,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-075,gbg-2026-10-05-076,G clinic,2026-04-12,2026-04-12,4,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-075,gbg-2026-10-05-077,G clinic,2026-04-12,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-075,gbg-2026-10-05-078,G clinic,2026-04-12,2026-04-12,4,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-075,gbg-2026-10-05-085,G clinic,2026-04-12,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-075,gbg-2026-10-05-086,G clinic,2026-04-12,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-076,gbg-2026-10-05-077,G clinic,2026-04-12,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-076,gbg-2026-10-05-078,G clinic,2026-04-12,2026-04-12,4,4,duplicate,high,gt-016,sun spots/dullness; ~5 minutes; no moisturizer aftercare
-gbg-2026-10-05-076,gbg-2026-10-05-085,G clinic,2026-04-12,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-076,gbg-2026-10-05-086,G clinic,2026-04-12,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-077,gbg-2026-10-05-078,G clinic,2026-04-12,2026-04-12,5,4,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-077,gbg-2026-10-05-085,G clinic,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-077,gbg-2026-10-05-086,G clinic,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-078,gbg-2026-10-05-085,G clinic,2026-04-12,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-078,gbg-2026-10-05-086,G clinic,2026-04-12,2026-04-12,4,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-079,gbg-2026-10-05-082,DA PS,2026-04-12,2026-04-12,3.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-079,gbg-2026-10-05-083,DA PS,2026-04-12,2026-04-12,3.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-079,gbg-2026-10-05-087,DA PS,2026-04-12,2026-04-12,3.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-079,gbg-2026-10-05-088,DA PS,2026-04-12,2026-04-12,3.5,3.5,duplicate,high,gt-007,buried-suture eyelid + fat removal/correction; same long-wait downside
-gbg-2026-10-05-079,gbg-2026-10-05-090,DA PS,2026-04-12,2026-04-12,3.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-080,gbg-2026-10-05-081,View PS,2026-04-12,2026-04-12,5,5,duplicate,high,gt-044,weak eye-opening surgery; clean facility; natural 3-month result
-gbg-2026-10-05-080,gbg-2026-10-05-084,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-080,gbg-2026-10-05-089,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-081,gbg-2026-10-05-084,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-081,gbg-2026-10-05-089,View PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-082,gbg-2026-10-05-083,DA PS,2026-04-12,2026-04-12,5,5,duplicate,high,gt-008,bulbous low-nose rhinoplasty; childhood concern; one-week work return
-gbg-2026-10-05-082,gbg-2026-10-05-087,DA PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-082,gbg-2026-10-05-088,DA PS,2026-04-12,2026-04-12,5,3.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-082,gbg-2026-10-05-090,DA PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-083,gbg-2026-10-05-087,DA PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-083,gbg-2026-10-05-088,DA PS,2026-04-12,2026-04-12,5,3.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-083,gbg-2026-10-05-090,DA PS,2026-04-12,2026-04-12,5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-084,gbg-2026-10-05-089,View PS,2026-04-12,2026-04-12,5,5,duplicate,high,gt-045,post-breastfeeding augmentation; 120-day soft result; normal activity
-gbg-2026-10-05-085,gbg-2026-10-05-086,G clinic,2026-04-12,2026-04-12,5,5,duplicate,high,gt-017,trapezius reduction; five-day soreness; lingering lifting pain
-gbg-2026-10-05-087,gbg-2026-10-05-088,DA PS,2026-04-12,2026-04-12,5,3.5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
-gbg-2026-10-05-087,gbg-2026-10-05-090,DA PS,2026-04-12,2026-04-12,5,5,duplicate,high,gt-009,small eyes with lid fat; no post-anesthesia pain; friend asked clinic
-gbg-2026-10-05-088,gbg-2026-10-05-090,DA PS,2026-04-12,2026-04-12,3.5,5,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+source_dataset_l,unique_id_l,source_dataset_r,unique_id_r,label,confidence,duplicate_cluster_id,rationale
+gbg-reviews-2026-10-05,gbg-2026-10-05-001,gbg-reviews-2026-10-05,gbg-2026-10-05-006,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-001,gbg-reviews-2026-10-05,gbg-2026-10-05-029,duplicate,high,gt-028,rhinitis + low-nose surgery; same-day normal activity; no complications
+gbg-reviews-2026-10-05,gbg-2026-10-05-001,gbg-reviews-2026-10-05,gbg-2026-10-05-033,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-002,gbg-reviews-2026-10-05,gbg-2026-10-05-003,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-002,gbg-reviews-2026-10-05,gbg-2026-10-05-007,duplicate,high,gt-035,sleepy eyes; straining to open; easier makeup; natural result
+gbg-reviews-2026-10-05,gbg-2026-10-05-002,gbg-reviews-2026-10-05,gbg-2026-10-05-009,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-002,gbg-reviews-2026-10-05,gbg-2026-10-05-020,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-002,gbg-reviews-2026-10-05,gbg-2026-10-05-027,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-002,gbg-reviews-2026-10-05,gbg-2026-10-05-028,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-002,gbg-reviews-2026-10-05,gbg-2026-10-05-041,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-002,gbg-reviews-2026-10-05,gbg-2026-10-05-043,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-002,gbg-reviews-2026-10-05,gbg-2026-10-05-047,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-002,gbg-reviews-2026-10-05,gbg-2026-10-05-056,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-002,gbg-reviews-2026-10-05,gbg-2026-10-05-057,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-002,gbg-reviews-2026-10-05,gbg-2026-10-05-058,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-002,gbg-reviews-2026-10-05,gbg-2026-10-05-059,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-002,gbg-reviews-2026-10-05,gbg-2026-10-05-061,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-002,gbg-reviews-2026-10-05,gbg-2026-10-05-064,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-002,gbg-reviews-2026-10-05,gbg-2026-10-05-065,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-002,gbg-reviews-2026-10-05,gbg-2026-10-05-066,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-002,gbg-reviews-2026-10-05,gbg-2026-10-05-080,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-002,gbg-reviews-2026-10-05,gbg-2026-10-05-081,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-002,gbg-reviews-2026-10-05,gbg-2026-10-05-084,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-002,gbg-reviews-2026-10-05,gbg-2026-10-05-089,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-003,gbg-reviews-2026-10-05,gbg-2026-10-05-007,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-003,gbg-reviews-2026-10-05,gbg-2026-10-05-009,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-003,gbg-reviews-2026-10-05,gbg-2026-10-05-020,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-003,gbg-reviews-2026-10-05,gbg-2026-10-05-027,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-003,gbg-reviews-2026-10-05,gbg-2026-10-05-028,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-003,gbg-reviews-2026-10-05,gbg-2026-10-05-041,duplicate,high,gt-036,jaw/facial contour; hard first week; 2-week swelling; 2–3 month slimming
+gbg-reviews-2026-10-05,gbg-2026-10-05-003,gbg-reviews-2026-10-05,gbg-2026-10-05-043,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-003,gbg-reviews-2026-10-05,gbg-2026-10-05-047,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-003,gbg-reviews-2026-10-05,gbg-2026-10-05-056,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-003,gbg-reviews-2026-10-05,gbg-2026-10-05-057,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-003,gbg-reviews-2026-10-05,gbg-2026-10-05-058,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-003,gbg-reviews-2026-10-05,gbg-2026-10-05-059,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-003,gbg-reviews-2026-10-05,gbg-2026-10-05-061,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-003,gbg-reviews-2026-10-05,gbg-2026-10-05-064,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-003,gbg-reviews-2026-10-05,gbg-2026-10-05-065,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-003,gbg-reviews-2026-10-05,gbg-2026-10-05-066,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-003,gbg-reviews-2026-10-05,gbg-2026-10-05-080,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-003,gbg-reviews-2026-10-05,gbg-2026-10-05-081,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-003,gbg-reviews-2026-10-05,gbg-2026-10-05-084,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-003,gbg-reviews-2026-10-05,gbg-2026-10-05-089,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-004,gbg-reviews-2026-10-05,gbg-2026-10-05-034,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-004,gbg-reviews-2026-10-05,gbg-2026-10-05-044,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-004,gbg-reviews-2026-10-05,gbg-2026-10-05-045,duplicate,high,gt-025,long/humped/wide-nose osteotomy; same refined result and aftercare
+gbg-reviews-2026-10-05,gbg-2026-10-05-004,gbg-reviews-2026-10-05,gbg-2026-10-05-052,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-004,gbg-reviews-2026-10-05,gbg-2026-10-05-053,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-005,gbg-reviews-2026-10-05,gbg-2026-10-05-048,duplicate,high,gt-004,revision eyelid; loosened left crease; mild recovery
+gbg-reviews-2026-10-05,gbg-2026-10-05-005,gbg-reviews-2026-10-05,gbg-2026-10-05-049,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-005,gbg-reviews-2026-10-05,gbg-2026-10-05-050,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-006,gbg-reviews-2026-10-05,gbg-2026-10-05-029,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-006,gbg-reviews-2026-10-05,gbg-2026-10-05-033,duplicate,high,gt-029,Motiva augmentation; six-month natural result; friends/family reaction
+gbg-reviews-2026-10-05,gbg-2026-10-05-007,gbg-reviews-2026-10-05,gbg-2026-10-05-009,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-007,gbg-reviews-2026-10-05,gbg-2026-10-05-020,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-007,gbg-reviews-2026-10-05,gbg-2026-10-05-027,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-007,gbg-reviews-2026-10-05,gbg-2026-10-05-028,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-007,gbg-reviews-2026-10-05,gbg-2026-10-05-041,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-007,gbg-reviews-2026-10-05,gbg-2026-10-05-043,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-007,gbg-reviews-2026-10-05,gbg-2026-10-05-047,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-007,gbg-reviews-2026-10-05,gbg-2026-10-05-056,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-007,gbg-reviews-2026-10-05,gbg-2026-10-05-057,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-007,gbg-reviews-2026-10-05,gbg-2026-10-05-058,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-007,gbg-reviews-2026-10-05,gbg-2026-10-05-059,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-007,gbg-reviews-2026-10-05,gbg-2026-10-05-061,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-007,gbg-reviews-2026-10-05,gbg-2026-10-05-064,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-007,gbg-reviews-2026-10-05,gbg-2026-10-05-065,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-007,gbg-reviews-2026-10-05,gbg-2026-10-05-066,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-007,gbg-reviews-2026-10-05,gbg-2026-10-05-080,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-007,gbg-reviews-2026-10-05,gbg-2026-10-05-081,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-007,gbg-reviews-2026-10-05,gbg-2026-10-05-084,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-007,gbg-reviews-2026-10-05,gbg-2026-10-05-089,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-008,gbg-reviews-2026-10-05,gbg-2026-10-05-013,duplicate,high,gt-001,third rhinoplasty; two prior failures; drooping tip
+gbg-reviews-2026-10-05,gbg-2026-10-05-009,gbg-reviews-2026-10-05,gbg-2026-10-05-020,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-009,gbg-reviews-2026-10-05,gbg-2026-10-05-027,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-009,gbg-reviews-2026-10-05,gbg-2026-10-05-028,duplicate,high,gt-037,eyelid + epicanthoplasty/correction; tape use; day-one swelling; cooling
+gbg-reviews-2026-10-05,gbg-2026-10-05-009,gbg-reviews-2026-10-05,gbg-2026-10-05-041,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-009,gbg-reviews-2026-10-05,gbg-2026-10-05-043,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-009,gbg-reviews-2026-10-05,gbg-2026-10-05-047,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-009,gbg-reviews-2026-10-05,gbg-2026-10-05-056,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-009,gbg-reviews-2026-10-05,gbg-2026-10-05-057,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-009,gbg-reviews-2026-10-05,gbg-2026-10-05-058,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-009,gbg-reviews-2026-10-05,gbg-2026-10-05-059,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-009,gbg-reviews-2026-10-05,gbg-2026-10-05-061,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-009,gbg-reviews-2026-10-05,gbg-2026-10-05-064,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-009,gbg-reviews-2026-10-05,gbg-2026-10-05-065,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-009,gbg-reviews-2026-10-05,gbg-2026-10-05-066,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-009,gbg-reviews-2026-10-05,gbg-2026-10-05-080,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-009,gbg-reviews-2026-10-05,gbg-2026-10-05-081,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-009,gbg-reviews-2026-10-05,gbg-2026-10-05-084,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-009,gbg-reviews-2026-10-05,gbg-2026-10-05-089,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-010,gbg-reviews-2026-10-05,gbg-2026-10-05-026,duplicate,high,gt-018,revision eyelid after loosened non-incisional result; painful recovery; higher price
+gbg-reviews-2026-10-05,gbg-2026-10-05-010,gbg-reviews-2026-10-05,gbg-2026-10-05-071,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-010,gbg-reviews-2026-10-05,gbg-2026-10-05-072,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-011,gbg-reviews-2026-10-05,gbg-2026-10-05-018,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-011,gbg-reviews-2026-10-05,gbg-2026-10-05-039,duplicate,high,gt-010,repeat face-slimming treatment after three months; short wait
+gbg-reviews-2026-10-05,gbg-2026-10-05-011,gbg-reviews-2026-10-05,gbg-2026-10-05-040,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-011,gbg-reviews-2026-10-05,gbg-2026-10-05-051,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-011,gbg-reviews-2026-10-05,gbg-2026-10-05-054,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-011,gbg-reviews-2026-10-05,gbg-2026-10-05-060,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-011,gbg-reviews-2026-10-05,gbg-2026-10-05-062,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-011,gbg-reviews-2026-10-05,gbg-2026-10-05-073,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-011,gbg-reviews-2026-10-05,gbg-2026-10-05-074,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-011,gbg-reviews-2026-10-05,gbg-2026-10-05-075,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-011,gbg-reviews-2026-10-05,gbg-2026-10-05-076,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-011,gbg-reviews-2026-10-05,gbg-2026-10-05-077,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-011,gbg-reviews-2026-10-05,gbg-2026-10-05-078,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-011,gbg-reviews-2026-10-05,gbg-2026-10-05-085,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-011,gbg-reviews-2026-10-05,gbg-2026-10-05-086,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-012,gbg-reviews-2026-10-05,gbg-2026-10-05-019,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-012,gbg-reviews-2026-10-05,gbg-2026-10-05-025,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-012,gbg-reviews-2026-10-05,gbg-2026-10-05-035,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-012,gbg-reviews-2026-10-05,gbg-2026-10-05-036,duplicate,high,gt-030,epicanthal-fold eye-corner procedure; itching; low swelling/pain; long wait
+gbg-reviews-2026-10-05,gbg-2026-10-05-012,gbg-reviews-2026-10-05,gbg-2026-10-05-037,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-012,gbg-reviews-2026-10-05,gbg-2026-10-05-042,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-012,gbg-reviews-2026-10-05,gbg-2026-10-05-046,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-014,gbg-reviews-2026-10-05,gbg-2026-10-05-015,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-014,gbg-reviews-2026-10-05,gbg-2026-10-05-021,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-014,gbg-reviews-2026-10-05,gbg-2026-10-05-023,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-014,gbg-reviews-2026-10-05,gbg-2026-10-05-024,duplicate,high,gt-020,3-month forehead lift; itching/hair loss; delayed follow-up injection
+gbg-reviews-2026-10-05,gbg-2026-10-05-014,gbg-reviews-2026-10-05,gbg-2026-10-05-031,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-014,gbg-reviews-2026-10-05,gbg-2026-10-05-032,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-014,gbg-reviews-2026-10-05,gbg-2026-10-05-038,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-014,gbg-reviews-2026-10-05,gbg-2026-10-05-055,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-014,gbg-reviews-2026-10-05,gbg-2026-10-05-063,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-015,gbg-reviews-2026-10-05,gbg-2026-10-05-021,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-015,gbg-reviews-2026-10-05,gbg-2026-10-05-023,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-015,gbg-reviews-2026-10-05,gbg-2026-10-05-024,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-015,gbg-reviews-2026-10-05,gbg-2026-10-05-031,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-015,gbg-reviews-2026-10-05,gbg-2026-10-05-032,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-015,gbg-reviews-2026-10-05,gbg-2026-10-05-038,duplicate,high,gt-021,complex rhinoplasty with rib cartilage; minimal swelling/bruising
+gbg-reviews-2026-10-05,gbg-2026-10-05-015,gbg-reviews-2026-10-05,gbg-2026-10-05-055,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-015,gbg-reviews-2026-10-05,gbg-2026-10-05-063,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-016,gbg-reviews-2026-10-05,gbg-2026-10-05-017,duplicate,high,gt-006,revision eyelid/canthoplasty; 2-week swelling; high cost; long wait
+gbg-reviews-2026-10-05,gbg-2026-10-05-016,gbg-reviews-2026-10-05,gbg-2026-10-05-079,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-016,gbg-reviews-2026-10-05,gbg-2026-10-05-082,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-016,gbg-reviews-2026-10-05,gbg-2026-10-05-083,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-016,gbg-reviews-2026-10-05,gbg-2026-10-05-087,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-016,gbg-reviews-2026-10-05,gbg-2026-10-05-088,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-016,gbg-reviews-2026-10-05,gbg-2026-10-05-090,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-017,gbg-reviews-2026-10-05,gbg-2026-10-05-079,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-017,gbg-reviews-2026-10-05,gbg-2026-10-05-082,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-017,gbg-reviews-2026-10-05,gbg-2026-10-05-083,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-017,gbg-reviews-2026-10-05,gbg-2026-10-05-087,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-017,gbg-reviews-2026-10-05,gbg-2026-10-05-088,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-017,gbg-reviews-2026-10-05,gbg-2026-10-05-090,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-018,gbg-reviews-2026-10-05,gbg-2026-10-05-039,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-018,gbg-reviews-2026-10-05,gbg-2026-10-05-040,duplicate,high,gt-011,shoulder Botox; under 15 minutes; paid needle change; curt counseling
+gbg-reviews-2026-10-05,gbg-2026-10-05-018,gbg-reviews-2026-10-05,gbg-2026-10-05-051,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-018,gbg-reviews-2026-10-05,gbg-2026-10-05-054,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-018,gbg-reviews-2026-10-05,gbg-2026-10-05-060,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-018,gbg-reviews-2026-10-05,gbg-2026-10-05-062,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-018,gbg-reviews-2026-10-05,gbg-2026-10-05-073,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-018,gbg-reviews-2026-10-05,gbg-2026-10-05-074,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-018,gbg-reviews-2026-10-05,gbg-2026-10-05-075,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-018,gbg-reviews-2026-10-05,gbg-2026-10-05-076,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-018,gbg-reviews-2026-10-05,gbg-2026-10-05-077,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-018,gbg-reviews-2026-10-05,gbg-2026-10-05-078,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-018,gbg-reviews-2026-10-05,gbg-2026-10-05-085,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-018,gbg-reviews-2026-10-05,gbg-2026-10-05-086,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-019,gbg-reviews-2026-10-05,gbg-2026-10-05-025,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-019,gbg-reviews-2026-10-05,gbg-2026-10-05-035,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-019,gbg-reviews-2026-10-05,gbg-2026-10-05-036,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-019,gbg-reviews-2026-10-05,gbg-2026-10-05-037,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-019,gbg-reviews-2026-10-05,gbg-2026-10-05-042,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-019,gbg-reviews-2026-10-05,gbg-2026-10-05-046,duplicate,high,gt-031,natural-adhesion eyelid + corner corrections; mild swelling; natural result
+gbg-reviews-2026-10-05,gbg-2026-10-05-020,gbg-reviews-2026-10-05,gbg-2026-10-05-027,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-020,gbg-reviews-2026-10-05,gbg-2026-10-05-028,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-020,gbg-reviews-2026-10-05,gbg-2026-10-05-041,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-020,gbg-reviews-2026-10-05,gbg-2026-10-05-043,duplicate,high,gt-038,eye-opening correction; 2-week swelling; 1-month natural; 2-month strength
+gbg-reviews-2026-10-05,gbg-2026-10-05-020,gbg-reviews-2026-10-05,gbg-2026-10-05-047,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-020,gbg-reviews-2026-10-05,gbg-2026-10-05-056,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-020,gbg-reviews-2026-10-05,gbg-2026-10-05-057,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-020,gbg-reviews-2026-10-05,gbg-2026-10-05-058,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-020,gbg-reviews-2026-10-05,gbg-2026-10-05-059,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-020,gbg-reviews-2026-10-05,gbg-2026-10-05-061,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-020,gbg-reviews-2026-10-05,gbg-2026-10-05-064,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-020,gbg-reviews-2026-10-05,gbg-2026-10-05-065,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-020,gbg-reviews-2026-10-05,gbg-2026-10-05-066,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-020,gbg-reviews-2026-10-05,gbg-2026-10-05-080,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-020,gbg-reviews-2026-10-05,gbg-2026-10-05-081,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-020,gbg-reviews-2026-10-05,gbg-2026-10-05-084,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-020,gbg-reviews-2026-10-05,gbg-2026-10-05-089,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-021,gbg-reviews-2026-10-05,gbg-2026-10-05-023,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-021,gbg-reviews-2026-10-05,gbg-2026-10-05-024,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-021,gbg-reviews-2026-10-05,gbg-2026-10-05-031,duplicate,high,gt-022,facial liposuction + thread lift; no bruising/scar; quick return
+gbg-reviews-2026-10-05,gbg-2026-10-05-021,gbg-reviews-2026-10-05,gbg-2026-10-05-032,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-021,gbg-reviews-2026-10-05,gbg-2026-10-05-038,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-021,gbg-reviews-2026-10-05,gbg-2026-10-05-055,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-021,gbg-reviews-2026-10-05,gbg-2026-10-05-063,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-022,gbg-reviews-2026-10-05,gbg-2026-10-05-030,duplicate,high,gt-034,chin pin removal; 2-month symptom resolution; easier recovery
+gbg-reviews-2026-10-05,gbg-2026-10-05-023,gbg-reviews-2026-10-05,gbg-2026-10-05-024,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-023,gbg-reviews-2026-10-05,gbg-2026-10-05-031,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-023,gbg-reviews-2026-10-05,gbg-2026-10-05-032,duplicate,high,gt-023,combined contour/rhinoplasty/forehead/lipo/thread-lift; no complications
+gbg-reviews-2026-10-05,gbg-2026-10-05-023,gbg-reviews-2026-10-05,gbg-2026-10-05-038,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-023,gbg-reviews-2026-10-05,gbg-2026-10-05-055,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-023,gbg-reviews-2026-10-05,gbg-2026-10-05-063,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-024,gbg-reviews-2026-10-05,gbg-2026-10-05-031,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-024,gbg-reviews-2026-10-05,gbg-2026-10-05-032,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-024,gbg-reviews-2026-10-05,gbg-2026-10-05-038,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-024,gbg-reviews-2026-10-05,gbg-2026-10-05-055,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-024,gbg-reviews-2026-10-05,gbg-2026-10-05-063,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-025,gbg-reviews-2026-10-05,gbg-2026-10-05-035,duplicate,high,gt-032,revision natural-adhesion eyelid after ~8-year faded result
+gbg-reviews-2026-10-05,gbg-2026-10-05-025,gbg-reviews-2026-10-05,gbg-2026-10-05-036,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-025,gbg-reviews-2026-10-05,gbg-2026-10-05-037,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-025,gbg-reviews-2026-10-05,gbg-2026-10-05-042,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-025,gbg-reviews-2026-10-05,gbg-2026-10-05-046,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-026,gbg-reviews-2026-10-05,gbg-2026-10-05-071,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-026,gbg-reviews-2026-10-05,gbg-2026-10-05-072,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-027,gbg-reviews-2026-10-05,gbg-2026-10-05-028,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-027,gbg-reviews-2026-10-05,gbg-2026-10-05-041,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-027,gbg-reviews-2026-10-05,gbg-2026-10-05-043,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-027,gbg-reviews-2026-10-05,gbg-2026-10-05-047,duplicate,high,gt-039,eyelid surgery for harsh eye shape; settled by three months
+gbg-reviews-2026-10-05,gbg-2026-10-05-027,gbg-reviews-2026-10-05,gbg-2026-10-05-056,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-027,gbg-reviews-2026-10-05,gbg-2026-10-05-057,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-027,gbg-reviews-2026-10-05,gbg-2026-10-05-058,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-027,gbg-reviews-2026-10-05,gbg-2026-10-05-059,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-027,gbg-reviews-2026-10-05,gbg-2026-10-05-061,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-027,gbg-reviews-2026-10-05,gbg-2026-10-05-064,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-027,gbg-reviews-2026-10-05,gbg-2026-10-05-065,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-027,gbg-reviews-2026-10-05,gbg-2026-10-05-066,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-027,gbg-reviews-2026-10-05,gbg-2026-10-05-080,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-027,gbg-reviews-2026-10-05,gbg-2026-10-05-081,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-027,gbg-reviews-2026-10-05,gbg-2026-10-05-084,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-027,gbg-reviews-2026-10-05,gbg-2026-10-05-089,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-028,gbg-reviews-2026-10-05,gbg-2026-10-05-041,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-028,gbg-reviews-2026-10-05,gbg-2026-10-05-043,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-028,gbg-reviews-2026-10-05,gbg-2026-10-05-047,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-028,gbg-reviews-2026-10-05,gbg-2026-10-05-056,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-028,gbg-reviews-2026-10-05,gbg-2026-10-05-057,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-028,gbg-reviews-2026-10-05,gbg-2026-10-05-058,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-028,gbg-reviews-2026-10-05,gbg-2026-10-05-059,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-028,gbg-reviews-2026-10-05,gbg-2026-10-05-061,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-028,gbg-reviews-2026-10-05,gbg-2026-10-05-064,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-028,gbg-reviews-2026-10-05,gbg-2026-10-05-065,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-028,gbg-reviews-2026-10-05,gbg-2026-10-05-066,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-028,gbg-reviews-2026-10-05,gbg-2026-10-05-080,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-028,gbg-reviews-2026-10-05,gbg-2026-10-05-081,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-028,gbg-reviews-2026-10-05,gbg-2026-10-05-084,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-028,gbg-reviews-2026-10-05,gbg-2026-10-05-089,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-029,gbg-reviews-2026-10-05,gbg-2026-10-05-033,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-031,gbg-reviews-2026-10-05,gbg-2026-10-05-032,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-031,gbg-reviews-2026-10-05,gbg-2026-10-05-038,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-031,gbg-reviews-2026-10-05,gbg-2026-10-05-055,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-031,gbg-reviews-2026-10-05,gbg-2026-10-05-063,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-032,gbg-reviews-2026-10-05,gbg-2026-10-05-038,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-032,gbg-reviews-2026-10-05,gbg-2026-10-05-055,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-032,gbg-reviews-2026-10-05,gbg-2026-10-05-063,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-034,gbg-reviews-2026-10-05,gbg-2026-10-05-044,duplicate,high,gt-026,breast augmentation for low volume/asymmetry; minimal bleeding; fast recovery
+gbg-reviews-2026-10-05,gbg-2026-10-05-034,gbg-reviews-2026-10-05,gbg-2026-10-05-045,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-034,gbg-reviews-2026-10-05,gbg-2026-10-05-052,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-034,gbg-reviews-2026-10-05,gbg-2026-10-05-053,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-035,gbg-reviews-2026-10-05,gbg-2026-10-05-036,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-035,gbg-reviews-2026-10-05,gbg-2026-10-05-037,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-035,gbg-reviews-2026-10-05,gbg-2026-10-05-042,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-035,gbg-reviews-2026-10-05,gbg-2026-10-05-046,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-036,gbg-reviews-2026-10-05,gbg-2026-10-05-037,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-036,gbg-reviews-2026-10-05,gbg-2026-10-05-042,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-036,gbg-reviews-2026-10-05,gbg-2026-10-05-046,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-037,gbg-reviews-2026-10-05,gbg-2026-10-05-042,duplicate,high,gt-033,natural-adhesion/buried-suture eyelid; little swelling; immediate school return
+gbg-reviews-2026-10-05,gbg-2026-10-05-037,gbg-reviews-2026-10-05,gbg-2026-10-05-046,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-038,gbg-reviews-2026-10-05,gbg-2026-10-05-055,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-038,gbg-reviews-2026-10-05,gbg-2026-10-05-063,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-039,gbg-reviews-2026-10-05,gbg-2026-10-05-040,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-039,gbg-reviews-2026-10-05,gbg-2026-10-05-051,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-039,gbg-reviews-2026-10-05,gbg-2026-10-05-054,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-039,gbg-reviews-2026-10-05,gbg-2026-10-05-060,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-039,gbg-reviews-2026-10-05,gbg-2026-10-05-062,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-039,gbg-reviews-2026-10-05,gbg-2026-10-05-073,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-039,gbg-reviews-2026-10-05,gbg-2026-10-05-074,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-039,gbg-reviews-2026-10-05,gbg-2026-10-05-075,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-039,gbg-reviews-2026-10-05,gbg-2026-10-05-076,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-039,gbg-reviews-2026-10-05,gbg-2026-10-05-077,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-039,gbg-reviews-2026-10-05,gbg-2026-10-05-078,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-039,gbg-reviews-2026-10-05,gbg-2026-10-05-085,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-039,gbg-reviews-2026-10-05,gbg-2026-10-05-086,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-040,gbg-reviews-2026-10-05,gbg-2026-10-05-051,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-040,gbg-reviews-2026-10-05,gbg-2026-10-05-054,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-040,gbg-reviews-2026-10-05,gbg-2026-10-05-060,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-040,gbg-reviews-2026-10-05,gbg-2026-10-05-062,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-040,gbg-reviews-2026-10-05,gbg-2026-10-05-073,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-040,gbg-reviews-2026-10-05,gbg-2026-10-05-074,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-040,gbg-reviews-2026-10-05,gbg-2026-10-05-075,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-040,gbg-reviews-2026-10-05,gbg-2026-10-05-076,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-040,gbg-reviews-2026-10-05,gbg-2026-10-05-077,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-040,gbg-reviews-2026-10-05,gbg-2026-10-05-078,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-040,gbg-reviews-2026-10-05,gbg-2026-10-05-085,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-040,gbg-reviews-2026-10-05,gbg-2026-10-05-086,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-041,gbg-reviews-2026-10-05,gbg-2026-10-05-043,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-041,gbg-reviews-2026-10-05,gbg-2026-10-05-047,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-041,gbg-reviews-2026-10-05,gbg-2026-10-05-056,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-041,gbg-reviews-2026-10-05,gbg-2026-10-05-057,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-041,gbg-reviews-2026-10-05,gbg-2026-10-05-058,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-041,gbg-reviews-2026-10-05,gbg-2026-10-05-059,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-041,gbg-reviews-2026-10-05,gbg-2026-10-05-061,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-041,gbg-reviews-2026-10-05,gbg-2026-10-05-064,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-041,gbg-reviews-2026-10-05,gbg-2026-10-05-065,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-041,gbg-reviews-2026-10-05,gbg-2026-10-05-066,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-041,gbg-reviews-2026-10-05,gbg-2026-10-05-080,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-041,gbg-reviews-2026-10-05,gbg-2026-10-05-081,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-041,gbg-reviews-2026-10-05,gbg-2026-10-05-084,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-041,gbg-reviews-2026-10-05,gbg-2026-10-05-089,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-042,gbg-reviews-2026-10-05,gbg-2026-10-05-046,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-043,gbg-reviews-2026-10-05,gbg-2026-10-05-047,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-043,gbg-reviews-2026-10-05,gbg-2026-10-05-056,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-043,gbg-reviews-2026-10-05,gbg-2026-10-05-057,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-043,gbg-reviews-2026-10-05,gbg-2026-10-05-058,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-043,gbg-reviews-2026-10-05,gbg-2026-10-05-059,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-043,gbg-reviews-2026-10-05,gbg-2026-10-05-061,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-043,gbg-reviews-2026-10-05,gbg-2026-10-05-064,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-043,gbg-reviews-2026-10-05,gbg-2026-10-05-065,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-043,gbg-reviews-2026-10-05,gbg-2026-10-05-066,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-043,gbg-reviews-2026-10-05,gbg-2026-10-05-080,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-043,gbg-reviews-2026-10-05,gbg-2026-10-05-081,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-043,gbg-reviews-2026-10-05,gbg-2026-10-05-084,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-043,gbg-reviews-2026-10-05,gbg-2026-10-05-089,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-044,gbg-reviews-2026-10-05,gbg-2026-10-05-045,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-044,gbg-reviews-2026-10-05,gbg-2026-10-05-052,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-044,gbg-reviews-2026-10-05,gbg-2026-10-05-053,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-045,gbg-reviews-2026-10-05,gbg-2026-10-05-052,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-045,gbg-reviews-2026-10-05,gbg-2026-10-05-053,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-047,gbg-reviews-2026-10-05,gbg-2026-10-05-056,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-047,gbg-reviews-2026-10-05,gbg-2026-10-05-057,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-047,gbg-reviews-2026-10-05,gbg-2026-10-05-058,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-047,gbg-reviews-2026-10-05,gbg-2026-10-05-059,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-047,gbg-reviews-2026-10-05,gbg-2026-10-05-061,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-047,gbg-reviews-2026-10-05,gbg-2026-10-05-064,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-047,gbg-reviews-2026-10-05,gbg-2026-10-05-065,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-047,gbg-reviews-2026-10-05,gbg-2026-10-05-066,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-047,gbg-reviews-2026-10-05,gbg-2026-10-05-080,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-047,gbg-reviews-2026-10-05,gbg-2026-10-05-081,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-047,gbg-reviews-2026-10-05,gbg-2026-10-05-084,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-047,gbg-reviews-2026-10-05,gbg-2026-10-05-089,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-048,gbg-reviews-2026-10-05,gbg-2026-10-05-049,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-048,gbg-reviews-2026-10-05,gbg-2026-10-05-050,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-049,gbg-reviews-2026-10-05,gbg-2026-10-05-050,duplicate,medium,gt-005,posterior/lower eye-corner procedure; same one-month outcome
+gbg-reviews-2026-10-05,gbg-2026-10-05-051,gbg-reviews-2026-10-05,gbg-2026-10-05-054,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-051,gbg-reviews-2026-10-05,gbg-2026-10-05-060,duplicate,high,gt-012,repeat facial-slimming acupuncture; no wait; non-thinner needles; pain
+gbg-reviews-2026-10-05,gbg-2026-10-05-051,gbg-reviews-2026-10-05,gbg-2026-10-05-062,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-051,gbg-reviews-2026-10-05,gbg-2026-10-05-073,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-051,gbg-reviews-2026-10-05,gbg-2026-10-05-074,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-051,gbg-reviews-2026-10-05,gbg-2026-10-05-075,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-051,gbg-reviews-2026-10-05,gbg-2026-10-05-076,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-051,gbg-reviews-2026-10-05,gbg-2026-10-05-077,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-051,gbg-reviews-2026-10-05,gbg-2026-10-05-078,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-051,gbg-reviews-2026-10-05,gbg-2026-10-05-085,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-051,gbg-reviews-2026-10-05,gbg-2026-10-05-086,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-052,gbg-reviews-2026-10-05,gbg-2026-10-05-053,duplicate,medium,gt-027,alar/nostril reduction; detailed consult; easy recovery; subtle natural result
+gbg-reviews-2026-10-05,gbg-2026-10-05-054,gbg-reviews-2026-10-05,gbg-2026-10-05-060,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-054,gbg-reviews-2026-10-05,gbg-2026-10-05-062,duplicate,high,gt-013,facial spots/redness; spots darkened; kind staff; repeat intent
+gbg-reviews-2026-10-05,gbg-2026-10-05-054,gbg-reviews-2026-10-05,gbg-2026-10-05-073,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-054,gbg-reviews-2026-10-05,gbg-2026-10-05-074,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-054,gbg-reviews-2026-10-05,gbg-2026-10-05-075,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-054,gbg-reviews-2026-10-05,gbg-2026-10-05-076,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-054,gbg-reviews-2026-10-05,gbg-2026-10-05-077,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-054,gbg-reviews-2026-10-05,gbg-2026-10-05-078,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-054,gbg-reviews-2026-10-05,gbg-2026-10-05-085,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-054,gbg-reviews-2026-10-05,gbg-2026-10-05-086,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-055,gbg-reviews-2026-10-05,gbg-2026-10-05-063,duplicate,high,gt-024,2-month forehead lift; returning sensation; hair loss; follow-up waits
+gbg-reviews-2026-10-05,gbg-2026-10-05-056,gbg-reviews-2026-10-05,gbg-2026-10-05-057,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-056,gbg-reviews-2026-10-05,gbg-2026-10-05-058,duplicate,high,gt-040,hooded/drooping tired eyes; recovery did not disrupt daily life
+gbg-reviews-2026-10-05,gbg-2026-10-05-056,gbg-reviews-2026-10-05,gbg-2026-10-05-059,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-056,gbg-reviews-2026-10-05,gbg-2026-10-05-061,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-056,gbg-reviews-2026-10-05,gbg-2026-10-05-064,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-056,gbg-reviews-2026-10-05,gbg-2026-10-05-065,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-056,gbg-reviews-2026-10-05,gbg-2026-10-05-066,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-056,gbg-reviews-2026-10-05,gbg-2026-10-05-080,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-056,gbg-reviews-2026-10-05,gbg-2026-10-05-081,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-056,gbg-reviews-2026-10-05,gbg-2026-10-05-084,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-056,gbg-reviews-2026-10-05,gbg-2026-10-05-089,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-057,gbg-reviews-2026-10-05,gbg-2026-10-05-058,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-057,gbg-reviews-2026-10-05,gbg-2026-10-05-059,duplicate,high,gt-041,eye-opening for small eyes; 3-week swelling; less forehead strain
+gbg-reviews-2026-10-05,gbg-2026-10-05-057,gbg-reviews-2026-10-05,gbg-2026-10-05-061,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-057,gbg-reviews-2026-10-05,gbg-2026-10-05-064,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-057,gbg-reviews-2026-10-05,gbg-2026-10-05-065,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-057,gbg-reviews-2026-10-05,gbg-2026-10-05-066,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-057,gbg-reviews-2026-10-05,gbg-2026-10-05-080,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-057,gbg-reviews-2026-10-05,gbg-2026-10-05-081,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-057,gbg-reviews-2026-10-05,gbg-2026-10-05-084,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-057,gbg-reviews-2026-10-05,gbg-2026-10-05-089,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-058,gbg-reviews-2026-10-05,gbg-2026-10-05-059,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-058,gbg-reviews-2026-10-05,gbg-2026-10-05-061,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-058,gbg-reviews-2026-10-05,gbg-2026-10-05-064,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-058,gbg-reviews-2026-10-05,gbg-2026-10-05-065,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-058,gbg-reviews-2026-10-05,gbg-2026-10-05-066,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-058,gbg-reviews-2026-10-05,gbg-2026-10-05-080,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-058,gbg-reviews-2026-10-05,gbg-2026-10-05-081,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-058,gbg-reviews-2026-10-05,gbg-2026-10-05-084,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-058,gbg-reviews-2026-10-05,gbg-2026-10-05-089,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-059,gbg-reviews-2026-10-05,gbg-2026-10-05-061,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-059,gbg-reviews-2026-10-05,gbg-2026-10-05-064,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-059,gbg-reviews-2026-10-05,gbg-2026-10-05-065,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-059,gbg-reviews-2026-10-05,gbg-2026-10-05-066,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-059,gbg-reviews-2026-10-05,gbg-2026-10-05-080,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-059,gbg-reviews-2026-10-05,gbg-2026-10-05-081,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-059,gbg-reviews-2026-10-05,gbg-2026-10-05-084,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-059,gbg-reviews-2026-10-05,gbg-2026-10-05-089,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-060,gbg-reviews-2026-10-05,gbg-2026-10-05-062,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-060,gbg-reviews-2026-10-05,gbg-2026-10-05-073,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-060,gbg-reviews-2026-10-05,gbg-2026-10-05-074,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-060,gbg-reviews-2026-10-05,gbg-2026-10-05-075,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-060,gbg-reviews-2026-10-05,gbg-2026-10-05-076,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-060,gbg-reviews-2026-10-05,gbg-2026-10-05-077,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-060,gbg-reviews-2026-10-05,gbg-2026-10-05-078,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-060,gbg-reviews-2026-10-05,gbg-2026-10-05-085,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-060,gbg-reviews-2026-10-05,gbg-2026-10-05-086,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-061,gbg-reviews-2026-10-05,gbg-2026-10-05-064,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-061,gbg-reviews-2026-10-05,gbg-2026-10-05-065,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-061,gbg-reviews-2026-10-05,gbg-2026-10-05-066,duplicate,high,gt-042,breast lift in 50s; age-related sagging; strong one-month satisfaction
+gbg-reviews-2026-10-05,gbg-2026-10-05-061,gbg-reviews-2026-10-05,gbg-2026-10-05-080,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-061,gbg-reviews-2026-10-05,gbg-2026-10-05-081,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-061,gbg-reviews-2026-10-05,gbg-2026-10-05-084,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-061,gbg-reviews-2026-10-05,gbg-2026-10-05-089,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-062,gbg-reviews-2026-10-05,gbg-2026-10-05-073,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-062,gbg-reviews-2026-10-05,gbg-2026-10-05-074,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-062,gbg-reviews-2026-10-05,gbg-2026-10-05-075,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-062,gbg-reviews-2026-10-05,gbg-2026-10-05-076,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-062,gbg-reviews-2026-10-05,gbg-2026-10-05-077,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-062,gbg-reviews-2026-10-05,gbg-2026-10-05-078,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-062,gbg-reviews-2026-10-05,gbg-2026-10-05-085,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-062,gbg-reviews-2026-10-05,gbg-2026-10-05-086,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-064,gbg-reviews-2026-10-05,gbg-2026-10-05-065,duplicate,high,gt-043,double eyelid + inner-corner correction; mild recovery; thinner natural line
+gbg-reviews-2026-10-05,gbg-2026-10-05-064,gbg-reviews-2026-10-05,gbg-2026-10-05-066,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-064,gbg-reviews-2026-10-05,gbg-2026-10-05-080,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-064,gbg-reviews-2026-10-05,gbg-2026-10-05-081,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-064,gbg-reviews-2026-10-05,gbg-2026-10-05-084,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-064,gbg-reviews-2026-10-05,gbg-2026-10-05-089,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-065,gbg-reviews-2026-10-05,gbg-2026-10-05-066,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-065,gbg-reviews-2026-10-05,gbg-2026-10-05-080,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-065,gbg-reviews-2026-10-05,gbg-2026-10-05-081,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-065,gbg-reviews-2026-10-05,gbg-2026-10-05-084,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-065,gbg-reviews-2026-10-05,gbg-2026-10-05-089,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-066,gbg-reviews-2026-10-05,gbg-2026-10-05-080,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-066,gbg-reviews-2026-10-05,gbg-2026-10-05-081,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-066,gbg-reviews-2026-10-05,gbg-2026-10-05-084,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-066,gbg-reviews-2026-10-05,gbg-2026-10-05-089,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-067,gbg-reviews-2026-10-05,gbg-2026-10-05-068,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-067,gbg-reviews-2026-10-05,gbg-2026-10-05-069,duplicate,high,gt-002,wide-nose rhinoplasty; same 8-week recovery
+gbg-reviews-2026-10-05,gbg-2026-10-05-067,gbg-reviews-2026-10-05,gbg-2026-10-05-070,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-068,gbg-reviews-2026-10-05,gbg-2026-10-05-069,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-068,gbg-reviews-2026-10-05,gbg-2026-10-05-070,duplicate,high,gt-003,drooping/small-eye eyelid surgery; same 6-week recovery
+gbg-reviews-2026-10-05,gbg-2026-10-05-069,gbg-reviews-2026-10-05,gbg-2026-10-05-070,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-071,gbg-reviews-2026-10-05,gbg-2026-10-05-072,duplicate,high,gt-019,eye-lowering surgery; conjunctival swelling; two-week daily-life recovery
+gbg-reviews-2026-10-05,gbg-2026-10-05-073,gbg-reviews-2026-10-05,gbg-2026-10-05-074,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-073,gbg-reviews-2026-10-05,gbg-2026-10-05-075,duplicate,high,gt-014,bite/grinding/jaw fatigue; under 30 minutes; too early to judge
+gbg-reviews-2026-10-05,gbg-2026-10-05-073,gbg-reviews-2026-10-05,gbg-2026-10-05-076,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-073,gbg-reviews-2026-10-05,gbg-2026-10-05-077,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-073,gbg-reviews-2026-10-05,gbg-2026-10-05-078,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-073,gbg-reviews-2026-10-05,gbg-2026-10-05-085,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-073,gbg-reviews-2026-10-05,gbg-2026-10-05-086,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-074,gbg-reviews-2026-10-05,gbg-2026-10-05-075,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-074,gbg-reviews-2026-10-05,gbg-2026-10-05-076,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-074,gbg-reviews-2026-10-05,gbg-2026-10-05-077,duplicate,high,gt-015,smaller-face/shoulder-stiffness treatment; no downtime; eating discomfort
+gbg-reviews-2026-10-05,gbg-2026-10-05-074,gbg-reviews-2026-10-05,gbg-2026-10-05-078,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-074,gbg-reviews-2026-10-05,gbg-2026-10-05-085,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-074,gbg-reviews-2026-10-05,gbg-2026-10-05-086,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-075,gbg-reviews-2026-10-05,gbg-2026-10-05-076,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-075,gbg-reviews-2026-10-05,gbg-2026-10-05-077,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-075,gbg-reviews-2026-10-05,gbg-2026-10-05-078,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-075,gbg-reviews-2026-10-05,gbg-2026-10-05-085,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-075,gbg-reviews-2026-10-05,gbg-2026-10-05-086,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-076,gbg-reviews-2026-10-05,gbg-2026-10-05-077,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-076,gbg-reviews-2026-10-05,gbg-2026-10-05-078,duplicate,high,gt-016,sun spots/dullness; ~5 minutes; no moisturizer aftercare
+gbg-reviews-2026-10-05,gbg-2026-10-05-076,gbg-reviews-2026-10-05,gbg-2026-10-05-085,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-076,gbg-reviews-2026-10-05,gbg-2026-10-05-086,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-077,gbg-reviews-2026-10-05,gbg-2026-10-05-078,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-077,gbg-reviews-2026-10-05,gbg-2026-10-05-085,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-077,gbg-reviews-2026-10-05,gbg-2026-10-05-086,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-078,gbg-reviews-2026-10-05,gbg-2026-10-05-085,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-078,gbg-reviews-2026-10-05,gbg-2026-10-05-086,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-079,gbg-reviews-2026-10-05,gbg-2026-10-05-082,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-079,gbg-reviews-2026-10-05,gbg-2026-10-05-083,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-079,gbg-reviews-2026-10-05,gbg-2026-10-05-087,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-079,gbg-reviews-2026-10-05,gbg-2026-10-05-088,duplicate,high,gt-007,buried-suture eyelid + fat removal/correction; same long-wait downside
+gbg-reviews-2026-10-05,gbg-2026-10-05-079,gbg-reviews-2026-10-05,gbg-2026-10-05-090,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-080,gbg-reviews-2026-10-05,gbg-2026-10-05-081,duplicate,high,gt-044,weak eye-opening surgery; clean facility; natural 3-month result
+gbg-reviews-2026-10-05,gbg-2026-10-05-080,gbg-reviews-2026-10-05,gbg-2026-10-05-084,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-080,gbg-reviews-2026-10-05,gbg-2026-10-05-089,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-081,gbg-reviews-2026-10-05,gbg-2026-10-05-084,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-081,gbg-reviews-2026-10-05,gbg-2026-10-05-089,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-082,gbg-reviews-2026-10-05,gbg-2026-10-05-083,duplicate,high,gt-008,bulbous low-nose rhinoplasty; childhood concern; one-week work return
+gbg-reviews-2026-10-05,gbg-2026-10-05-082,gbg-reviews-2026-10-05,gbg-2026-10-05-087,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-082,gbg-reviews-2026-10-05,gbg-2026-10-05-088,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-082,gbg-reviews-2026-10-05,gbg-2026-10-05-090,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-083,gbg-reviews-2026-10-05,gbg-2026-10-05-087,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-083,gbg-reviews-2026-10-05,gbg-2026-10-05-088,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-083,gbg-reviews-2026-10-05,gbg-2026-10-05-090,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-084,gbg-reviews-2026-10-05,gbg-2026-10-05-089,duplicate,high,gt-045,post-breastfeeding augmentation; 120-day soft result; normal activity
+gbg-reviews-2026-10-05,gbg-2026-10-05-085,gbg-reviews-2026-10-05,gbg-2026-10-05-086,duplicate,high,gt-017,trapezius reduction; five-day soreness; lingering lifting pain
+gbg-reviews-2026-10-05,gbg-2026-10-05-087,gbg-reviews-2026-10-05,gbg-2026-10-05-088,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
+gbg-reviews-2026-10-05,gbg-2026-10-05-087,gbg-reviews-2026-10-05,gbg-2026-10-05-090,duplicate,high,gt-009,small eyes with lid fat; no post-anesthesia pain; friend asked clinic
+gbg-reviews-2026-10-05,gbg-2026-10-05-088,gbg-reviews-2026-10-05,gbg-2026-10-05-090,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.
