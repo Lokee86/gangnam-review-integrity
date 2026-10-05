@@ -23,7 +23,6 @@ LINKAGE_RECORD_SCHEMA = pa.schema(
         pa.field("clinic_name", pa.string(), nullable=False),
         pa.field("review_date", pa.date32(), nullable=True),
         pa.field("rating", pa.float32(), nullable=True),
-        pa.field("reviewer_initial", pa.string(), nullable=True),
         pa.field("summary_text", pa.string(), nullable=False),
         pa.field(
             "summary_embedding",

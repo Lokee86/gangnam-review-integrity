@@ -25,7 +25,6 @@ It contains only fields that are useful for provenance, blocking, linkage, or pr
 | `clinic_name` | string | yes | Display name as exposed by the ingest source. |
 | `review_date` | date | no | Date exposed for the review by the ingest source. |
 | `rating` | float32 | no | Exposed rating, preserving half-star values. |
-| `reviewer_initial` | string | no | Display/provenance field. Not expected to carry useful linkage evidence. |
 | `summary_text` | string | yes | The captured English review summary. |
 | `summary_embedding` | float32[1024] | no | Fixed-size Qwen3 embedding used for semantic comparison. Fixed width is required by DuckDB `array_cosine_similarity`; null until embeddings are generated. |
 
@@ -37,7 +36,7 @@ The current baseline uses:
 - **primary comparison:** cosine similarity on `summary_embedding`
 - **secondary comparisons:** Jaro-Winkler similarity on `summary_text`, exact rating agreement, and exact review-date agreement; calibration showed these substantially reduce false positives
 
-`source_dataset`, provenance fields, clinic display name, reviewer initial, and capture date are
+`source_dataset`, provenance fields, clinic display name and capture date are
 not model evidence.
 
 ## Important provenance distinction

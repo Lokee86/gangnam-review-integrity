@@ -73,7 +73,7 @@
         {
           "sql_condition": "array_cosine_similarity(\"summary_embedding_l\", \"summary_embedding_r\") >= 0.8",
           "label_for_charts": "Cosine similarity of summary_embedding >= 0.8",
-          "m_probability": 2.13202848223084e-06,
+          "m_probability": 2.132028482230834e-06,
           "u_probability": 0.03870162297128589,
           "fix_m_probability": false,
           "fix_u_probability": false
@@ -194,7 +194,7 @@
         {
           "sql_condition": "ELSE",
           "label_for_charts": "All other comparisons",
-          "m_probability": 3.256405864129172e-37,
+          "m_probability": 3.2564058641291397e-37,
           "u_probability": 0.34756554307116105,
           "fix_m_probability": false,
           "fix_u_probability": false

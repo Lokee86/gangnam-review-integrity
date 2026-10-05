@@ -45,7 +45,6 @@ for review in payload["reviews"]:
                 if review.get("rating") is not None
                 else None
             ),
-            "reviewer_initial": review.get("initial"),
             "summary_text": review["summary"],
             "summary_embedding": None,
         }

@@ -14,28 +14,28 @@ raw_cosine,false_negative,gbg-2026-10-05-080,gbg-2026-10-05-081,0.84924428817145
 raw_cosine,false_negative,gbg-2026-10-05-085,gbg-2026-10-05-086,0.8674731926953275,duplicate,high,gt-017,trapezius reduction; five-day soreness; lingering lifting pain,,
 splink-cosine,false_positive,gbg-2026-10-05-014,gbg-2026-10-05-063,,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.,0.5092783166390212,0.05354927271588927
 splink-cosine,false_negative,gbg-2026-10-05-049,gbg-2026-10-05-050,,duplicate,medium,gt-005,posterior/lower eye-corner procedure; same one-month outcome,2.644510605404146e-12,-38.46013637754651
-splink-cosine,false_negative,gbg-2026-10-05-052,gbg-2026-10-05-053,,duplicate,medium,gt-027,alar/nostril reduction; detailed consult; easy recovery; subtle natural result,9.409936528761705e-10,-29.98509595569397
+splink-cosine,false_negative,gbg-2026-10-05-052,gbg-2026-10-05-053,,duplicate,medium,gt-027,alar/nostril reduction; detailed consult; easy recovery; subtle natural result,9.409936528761775e-10,-29.98509595569396
 splink-cosine,false_negative,gbg-2026-10-05-071,gbg-2026-10-05-072,,duplicate,high,gt-019,eye-lowering surgery; conjunctival swelling; two-week daily-life recovery,0.037663432530814375,-4.675305156330943
 splink-cosine,false_negative,gbg-2026-10-05-085,gbg-2026-10-05-086,,duplicate,high,gt-017,trapezius reduction; five-day soreness; lingering lifting pain,0.037663432530814375,-4.675305156330943
 splink-cosine,false_positive,gbg-2026-10-05-014,gbg-2026-10-05-055,,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.,0.5092783166390212,0.05354927271588927
 splink-cosine,false_positive,gbg-2026-10-05-024,gbg-2026-10-05-055,,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.,0.5092783166390212,0.05354927271588927
-splink-cosine,false_negative,gbg-2026-10-05-005,gbg-2026-10-05-048,,duplicate,high,gt-004,revision eyelid; loosened left crease; mild recovery,9.409936528761705e-10,-29.98509595569397
-splink-cosine,false_negative,gbg-2026-10-05-080,gbg-2026-10-05-081,,duplicate,high,gt-044,weak eye-opening surgery; clean facility; natural 3-month result,9.409936528761705e-10,-29.98509595569397
+splink-cosine,false_negative,gbg-2026-10-05-005,gbg-2026-10-05-048,,duplicate,high,gt-004,revision eyelid; loosened left crease; mild recovery,9.409936528761775e-10,-29.98509595569396
+splink-cosine,false_negative,gbg-2026-10-05-080,gbg-2026-10-05-081,,duplicate,high,gt-044,weak eye-opening surgery; clean facility; natural 3-month result,9.409936528761775e-10,-29.98509595569396
 splink-cosine,false_negative,gbg-2026-10-05-034,gbg-2026-10-05-044,,duplicate,high,gt-026,breast augmentation for low volume/asymmetry; minimal bleeding; fast recovery,2.644510605404146e-12,-38.46013637754651
-splink-cosine,false_negative,gbg-2026-10-05-061,gbg-2026-10-05-066,,duplicate,high,gt-042,breast lift in 50s; age-related sagging; strong one-month satisfaction,9.409936528761705e-10,-29.98509595569397
+splink-cosine,false_negative,gbg-2026-10-05-061,gbg-2026-10-05-066,,duplicate,high,gt-042,breast lift in 50s; age-related sagging; strong one-month satisfaction,9.409936528761775e-10,-29.98509595569396
 splink-cosine,false_negative,gbg-2026-10-05-064,gbg-2026-10-05-065,,duplicate,high,gt-043,double eyelid + inner-corner correction; mild recovery; thinner natural line,0.037663432530814375,-4.675305156330943
-splink-cosine,false_negative,gbg-2026-10-05-056,gbg-2026-10-05-058,,duplicate,high,gt-040,hooded/drooping tired eyes; recovery did not disrupt daily life,9.409936528761705e-10,-29.98509595569397
+splink-cosine,false_negative,gbg-2026-10-05-056,gbg-2026-10-05-058,,duplicate,high,gt-040,hooded/drooping tired eyes; recovery did not disrupt daily life,9.409936528761775e-10,-29.98509595569396
 splink-cosine,false_negative,gbg-2026-10-05-011,gbg-2026-10-05-039,,duplicate,high,gt-010,repeat face-slimming treatment after three months; short wait,2.644510605404146e-12,-38.46013637754651
 splink-cosine,false_positive,gbg-2026-10-05-009,gbg-2026-10-05-027,,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.,0.5092783166390212,0.05354927271588927
 splink-augmented,false_negative,gbg-2026-10-05-049,gbg-2026-10-05-050,,duplicate,medium,gt-005,posterior/lower eye-corner procedure; same one-month outcome,1.9584813749546704e-13,-42.215329825128464
-splink-augmented,false_negative,gbg-2026-10-05-052,gbg-2026-10-05-053,,duplicate,medium,gt-027,alar/nostril reduction; detailed consult; easy recovery; subtle natural result,2.1080093704059294e-06,-18.855684248129222
+splink-augmented,false_negative,gbg-2026-10-05-052,gbg-2026-10-05-053,,duplicate,medium,gt-027,alar/nostril reduction; detailed consult; easy recovery; subtle natural result,2.108009370405919e-06,-18.85568424812923
 splink-augmented,false_negative,gbg-2026-10-05-071,gbg-2026-10-05-072,,duplicate,high,gt-019,eye-lowering surgery; conjunctival swelling; two-week daily-life recovery,0.40897653975526227,-0.5311973104764094
 splink-augmented,false_negative,gbg-2026-10-05-085,gbg-2026-10-05-086,,duplicate,high,gt-017,trapezius reduction; five-day soreness; lingering lifting pain,0.40897653975526227,-0.5311973104764094
-splink-augmented,false_negative,gbg-2026-10-05-005,gbg-2026-10-05-048,,duplicate,high,gt-004,revision eyelid; loosened left crease; mild recovery,2.1080093704059294e-06,-18.855684248129222
-splink-augmented,false_negative,gbg-2026-10-05-080,gbg-2026-10-05-081,,duplicate,high,gt-044,weak eye-opening surgery; clean facility; natural 3-month result,2.1080093704059294e-06,-18.855684248129222
+splink-augmented,false_negative,gbg-2026-10-05-005,gbg-2026-10-05-048,,duplicate,high,gt-004,revision eyelid; loosened left crease; mild recovery,2.108009370405919e-06,-18.85568424812923
+splink-augmented,false_negative,gbg-2026-10-05-080,gbg-2026-10-05-081,,duplicate,high,gt-044,weak eye-opening surgery; clean facility; natural 3-month result,2.108009370405919e-06,-18.85568424812923
 splink-augmented,false_negative,gbg-2026-10-05-034,gbg-2026-10-05-044,,duplicate,high,gt-026,breast augmentation for low volume/asymmetry; minimal bleeding; fast recovery,1.9584813749546704e-13,-42.215329825128464
-splink-augmented,false_negative,gbg-2026-10-05-061,gbg-2026-10-05-066,,duplicate,high,gt-042,breast lift in 50s; age-related sagging; strong one-month satisfaction,2.1080093704059294e-06,-18.855684248129222
+splink-augmented,false_negative,gbg-2026-10-05-061,gbg-2026-10-05-066,,duplicate,high,gt-042,breast lift in 50s; age-related sagging; strong one-month satisfaction,2.108009370405919e-06,-18.85568424812923
 splink-augmented,false_negative,gbg-2026-10-05-064,gbg-2026-10-05-065,,duplicate,high,gt-043,double eyelid + inner-corner correction; mild recovery; thinner natural line,0.40897653975526227,-0.5311973104764094
-splink-augmented,false_negative,gbg-2026-10-05-056,gbg-2026-10-05-058,,duplicate,high,gt-040,hooded/drooping tired eyes; recovery did not disrupt daily life,2.1080093704059294e-06,-18.855684248129222
+splink-augmented,false_negative,gbg-2026-10-05-056,gbg-2026-10-05-058,,duplicate,high,gt-040,hooded/drooping tired eyes; recovery did not disrupt daily life,2.108009370405919e-06,-18.85568424812923
 splink-augmented,false_negative,gbg-2026-10-05-011,gbg-2026-10-05-039,,duplicate,high,gt-010,repeat face-slimming treatment after three months; short wait,1.9584813749546704e-13,-42.215329825128464
 splink-augmented,false_positive,gbg-2026-10-05-009,gbg-2026-10-05-027,,non_duplicate,high,,Different manually adjudicated patient-experience clusters within the same clinic.,0.7483212416512631,1.5720742692801848
