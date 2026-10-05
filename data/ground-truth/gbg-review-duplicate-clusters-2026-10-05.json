@@ -1,0 +1,466 @@
+{
+  "dataset": "gbg-reviews-2026-10-05",
+  "source_file": "data/gbg-reviews-2026-10-05.json",
+  "adjudicated_on": "2026-10-05",
+  "method": "Manual semantic adjudication of all 90 translated summaries, grouped by clinic/date/rating and checked for matching procedure, motivation, recovery timeline, distinctive details, and outcome.",
+  "summary": {
+    "records": 90,
+    "duplicate_clusters": 45,
+    "high_confidence_clusters": 43,
+    "medium_confidence_clusters": 2,
+    "estimated_unique_experiences_if_all_accepted": 45,
+    "redundant_records_if_all_accepted": 45
+  },
+  "clusters": [
+    {
+      "cluster_id": "gt-001",
+      "record_ids": [
+        "gbg-2026-10-05-008",
+        "gbg-2026-10-05-013"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "third rhinoplasty; two prior failures; drooping tip"
+    },
+    {
+      "cluster_id": "gt-002",
+      "record_ids": [
+        "gbg-2026-10-05-067",
+        "gbg-2026-10-05-069"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "wide-nose rhinoplasty; same 8-week recovery"
+    },
+    {
+      "cluster_id": "gt-003",
+      "record_ids": [
+        "gbg-2026-10-05-068",
+        "gbg-2026-10-05-070"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "drooping/small-eye eyelid surgery; same 6-week recovery"
+    },
+    {
+      "cluster_id": "gt-004",
+      "record_ids": [
+        "gbg-2026-10-05-005",
+        "gbg-2026-10-05-048"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "revision eyelid; loosened left crease; mild recovery"
+    },
+    {
+      "cluster_id": "gt-005",
+      "record_ids": [
+        "gbg-2026-10-05-049",
+        "gbg-2026-10-05-050"
+      ],
+      "label": "duplicate",
+      "confidence": "medium",
+      "rationale": "posterior/lower eye-corner procedure; same one-month outcome"
+    },
+    {
+      "cluster_id": "gt-006",
+      "record_ids": [
+        "gbg-2026-10-05-016",
+        "gbg-2026-10-05-017"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "revision eyelid/canthoplasty; 2-week swelling; high cost; long wait"
+    },
+    {
+      "cluster_id": "gt-007",
+      "record_ids": [
+        "gbg-2026-10-05-079",
+        "gbg-2026-10-05-088"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "buried-suture eyelid + fat removal/correction; same long-wait downside"
+    },
+    {
+      "cluster_id": "gt-008",
+      "record_ids": [
+        "gbg-2026-10-05-082",
+        "gbg-2026-10-05-083"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "bulbous low-nose rhinoplasty; childhood concern; one-week work return"
+    },
+    {
+      "cluster_id": "gt-009",
+      "record_ids": [
+        "gbg-2026-10-05-087",
+        "gbg-2026-10-05-090"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "small eyes with lid fat; no post-anesthesia pain; friend asked clinic"
+    },
+    {
+      "cluster_id": "gt-010",
+      "record_ids": [
+        "gbg-2026-10-05-011",
+        "gbg-2026-10-05-039"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "repeat face-slimming treatment after three months; short wait"
+    },
+    {
+      "cluster_id": "gt-011",
+      "record_ids": [
+        "gbg-2026-10-05-018",
+        "gbg-2026-10-05-040"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "shoulder Botox; under 15 minutes; paid needle change; curt counseling"
+    },
+    {
+      "cluster_id": "gt-012",
+      "record_ids": [
+        "gbg-2026-10-05-051",
+        "gbg-2026-10-05-060"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "repeat facial-slimming acupuncture; no wait; non-thinner needles; pain"
+    },
+    {
+      "cluster_id": "gt-013",
+      "record_ids": [
+        "gbg-2026-10-05-054",
+        "gbg-2026-10-05-062"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "facial spots/redness; spots darkened; kind staff; repeat intent"
+    },
+    {
+      "cluster_id": "gt-014",
+      "record_ids": [
+        "gbg-2026-10-05-073",
+        "gbg-2026-10-05-075"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "bite/grinding/jaw fatigue; under 30 minutes; too early to judge"
+    },
+    {
+      "cluster_id": "gt-015",
+      "record_ids": [
+        "gbg-2026-10-05-074",
+        "gbg-2026-10-05-077"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "smaller-face/shoulder-stiffness treatment; no downtime; eating discomfort"
+    },
+    {
+      "cluster_id": "gt-016",
+      "record_ids": [
+        "gbg-2026-10-05-076",
+        "gbg-2026-10-05-078"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "sun spots/dullness; ~5 minutes; no moisturizer aftercare"
+    },
+    {
+      "cluster_id": "gt-017",
+      "record_ids": [
+        "gbg-2026-10-05-085",
+        "gbg-2026-10-05-086"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "trapezius reduction; five-day soreness; lingering lifting pain"
+    },
+    {
+      "cluster_id": "gt-018",
+      "record_ids": [
+        "gbg-2026-10-05-010",
+        "gbg-2026-10-05-026"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "revision eyelid after loosened non-incisional result; painful recovery; higher price"
+    },
+    {
+      "cluster_id": "gt-019",
+      "record_ids": [
+        "gbg-2026-10-05-071",
+        "gbg-2026-10-05-072"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "eye-lowering surgery; conjunctival swelling; two-week daily-life recovery"
+    },
+    {
+      "cluster_id": "gt-020",
+      "record_ids": [
+        "gbg-2026-10-05-014",
+        "gbg-2026-10-05-024"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "3-month forehead lift; itching/hair loss; delayed follow-up injection"
+    },
+    {
+      "cluster_id": "gt-021",
+      "record_ids": [
+        "gbg-2026-10-05-015",
+        "gbg-2026-10-05-038"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "complex rhinoplasty with rib cartilage; minimal swelling/bruising"
+    },
+    {
+      "cluster_id": "gt-022",
+      "record_ids": [
+        "gbg-2026-10-05-021",
+        "gbg-2026-10-05-031"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "facial liposuction + thread lift; no bruising/scar; quick return"
+    },
+    {
+      "cluster_id": "gt-023",
+      "record_ids": [
+        "gbg-2026-10-05-023",
+        "gbg-2026-10-05-032"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "combined contour/rhinoplasty/forehead/lipo/thread-lift; no complications"
+    },
+    {
+      "cluster_id": "gt-024",
+      "record_ids": [
+        "gbg-2026-10-05-055",
+        "gbg-2026-10-05-063"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "2-month forehead lift; returning sensation; hair loss; follow-up waits"
+    },
+    {
+      "cluster_id": "gt-025",
+      "record_ids": [
+        "gbg-2026-10-05-004",
+        "gbg-2026-10-05-045"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "long/humped/wide-nose osteotomy; same refined result and aftercare"
+    },
+    {
+      "cluster_id": "gt-026",
+      "record_ids": [
+        "gbg-2026-10-05-034",
+        "gbg-2026-10-05-044"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "breast augmentation for low volume/asymmetry; minimal bleeding; fast recovery"
+    },
+    {
+      "cluster_id": "gt-027",
+      "record_ids": [
+        "gbg-2026-10-05-052",
+        "gbg-2026-10-05-053"
+      ],
+      "label": "duplicate",
+      "confidence": "medium",
+      "rationale": "alar/nostril reduction; detailed consult; easy recovery; subtle natural result"
+    },
+    {
+      "cluster_id": "gt-028",
+      "record_ids": [
+        "gbg-2026-10-05-001",
+        "gbg-2026-10-05-029"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "rhinitis + low-nose surgery; same-day normal activity; no complications"
+    },
+    {
+      "cluster_id": "gt-029",
+      "record_ids": [
+        "gbg-2026-10-05-006",
+        "gbg-2026-10-05-033"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "Motiva augmentation; six-month natural result; friends/family reaction"
+    },
+    {
+      "cluster_id": "gt-030",
+      "record_ids": [
+        "gbg-2026-10-05-012",
+        "gbg-2026-10-05-036"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "epicanthal-fold eye-corner procedure; itching; low swelling/pain; long wait"
+    },
+    {
+      "cluster_id": "gt-031",
+      "record_ids": [
+        "gbg-2026-10-05-019",
+        "gbg-2026-10-05-046"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "natural-adhesion eyelid + corner corrections; mild swelling; natural result"
+    },
+    {
+      "cluster_id": "gt-032",
+      "record_ids": [
+        "gbg-2026-10-05-025",
+        "gbg-2026-10-05-035"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "revision natural-adhesion eyelid after ~8-year faded result"
+    },
+    {
+      "cluster_id": "gt-033",
+      "record_ids": [
+        "gbg-2026-10-05-037",
+        "gbg-2026-10-05-042"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "natural-adhesion/buried-suture eyelid; little swelling; immediate school return"
+    },
+    {
+      "cluster_id": "gt-034",
+      "record_ids": [
+        "gbg-2026-10-05-022",
+        "gbg-2026-10-05-030"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "chin pin removal; 2-month symptom resolution; easier recovery"
+    },
+    {
+      "cluster_id": "gt-035",
+      "record_ids": [
+        "gbg-2026-10-05-002",
+        "gbg-2026-10-05-007"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "sleepy eyes; straining to open; easier makeup; natural result"
+    },
+    {
+      "cluster_id": "gt-036",
+      "record_ids": [
+        "gbg-2026-10-05-003",
+        "gbg-2026-10-05-041"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "jaw/facial contour; hard first week; 2-week swelling; 2–3 month slimming"
+    },
+    {
+      "cluster_id": "gt-037",
+      "record_ids": [
+        "gbg-2026-10-05-009",
+        "gbg-2026-10-05-028"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "eyelid + epicanthoplasty/correction; tape use; day-one swelling; cooling"
+    },
+    {
+      "cluster_id": "gt-038",
+      "record_ids": [
+        "gbg-2026-10-05-020",
+        "gbg-2026-10-05-043"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "eye-opening correction; 2-week swelling; 1-month natural; 2-month strength"
+    },
+    {
+      "cluster_id": "gt-039",
+      "record_ids": [
+        "gbg-2026-10-05-027",
+        "gbg-2026-10-05-047"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "eyelid surgery for harsh eye shape; settled by three months"
+    },
+    {
+      "cluster_id": "gt-040",
+      "record_ids": [
+        "gbg-2026-10-05-056",
+        "gbg-2026-10-05-058"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "hooded/drooping tired eyes; recovery did not disrupt daily life"
+    },
+    {
+      "cluster_id": "gt-041",
+      "record_ids": [
+        "gbg-2026-10-05-057",
+        "gbg-2026-10-05-059"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "eye-opening for small eyes; 3-week swelling; less forehead strain"
+    },
+    {
+      "cluster_id": "gt-042",
+      "record_ids": [
+        "gbg-2026-10-05-061",
+        "gbg-2026-10-05-066"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "breast lift in 50s; age-related sagging; strong one-month satisfaction"
+    },
+    {
+      "cluster_id": "gt-043",
+      "record_ids": [
+        "gbg-2026-10-05-064",
+        "gbg-2026-10-05-065"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "double eyelid + inner-corner correction; mild recovery; thinner natural line"
+    },
+    {
+      "cluster_id": "gt-044",
+      "record_ids": [
+        "gbg-2026-10-05-080",
+        "gbg-2026-10-05-081"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "weak eye-opening surgery; clean facility; natural 3-month result"
+    },
+    {
+      "cluster_id": "gt-045",
+      "record_ids": [
+        "gbg-2026-10-05-084",
+        "gbg-2026-10-05-089"
+      ],
+      "label": "duplicate",
+      "confidence": "high",
+      "rationale": "post-breastfeeding augmentation; 120-day soft result; normal activity"
+    }
+  ]
+}
