@@ -1,0 +1,38 @@
+{
+  "captured_on": "2026-10-05",
+  "source_url": "https://gangnambeautyguide.com/en/reviews/",
+  "page_claimed_count": 90,
+  "parsed_record_count": 90,
+  "source_distribution": {
+    "GangnamUnni": 90
+  },
+  "date_distribution": {
+    "2026-04-13": 48,
+    "2026-04-12": 42
+  },
+  "clinic_distribution": {
+    "Nana PS": 4,
+    "View PS": 22,
+    "Marble PS": 6,
+    "Chai PS": 4,
+    "AB PS": 2,
+    "Girin PS": 4,
+    "G clinic": 16,
+    "Pop PS": 8,
+    "Hit PS": 10,
+    "DA PS": 8,
+    "Saekim PS": 2,
+    "Braun PS": 4
+  },
+  "files": {
+    "gbg-reviews-2026-10-05.html": {
+      "sha256": "2d45704b724ed4ec87a27227ade4e329219241a2426a1b3b541e188fa711ef90",
+      "role": "raw downloaded page"
+    },
+    "gbg-reviews-2026-10-05.json": {
+      "sha256": "cd34518512a90230007f21cb5e28141f5174c7e3f2113668b97f15a6e84dbf08",
+      "role": "normalized review records extracted from the page's Next.js payload"
+    }
+  },
+  "content_note": "Gangnam Beauty Guide states that these are AI-generated summaries from public sources and advises confirming details directly with clinics."
+}
