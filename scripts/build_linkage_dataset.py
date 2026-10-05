@@ -11,6 +11,7 @@ import pyarrow.parquet as pq
 ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(ROOT))
 
+from linkage.procedures import extract_procedures
 from linkage.schema import LINKAGE_RECORD_SCHEMA, validate_linkage_table
 
 SNAPSHOT = ROOT / "data" / "gbg-reviews-2026-10-05.json"
@@ -22,6 +23,7 @@ captured_on = date.fromisoformat(payload["snapshot"]["captured_on"])
 
 rows: list[dict[str, object]] = []
 for review in payload["reviews"]:
+    procedure = extract_procedures(review["summary"])
     rows.append(
         {
             "unique_id": review["snapshot_id"],
@@ -45,6 +47,10 @@ for review in payload["reviews"]:
                 if review.get("rating") is not None
                 else None
             ),
+            "procedures": list(procedure.procedures),
+            "primary_procedure": procedure.primary_procedure,
+            "revision": procedure.revision,
+            "procedure_signature": procedure.signature,
             "summary_text": review["summary"],
             "summary_embedding": None,
         }

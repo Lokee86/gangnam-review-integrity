@@ -99,6 +99,43 @@
       },
       "model_path": "data\\linkage\\baseline\\splink-augmented-model.json",
       "predictions_path": "data\\linkage\\baseline\\splink-augmented-predictions.parquet"
+    },
+    {
+      "name": "splink-procedure",
+      "training": {
+        "ground_truth_used_for_parameter_training": false,
+        "u_estimation": {
+          "max_pairs": 4005,
+          "seed": 42
+        },
+        "m_estimation": "expectation_maximisation",
+        "m_estimation_block": "exact clinic_id",
+        "prior_match_probability": 0.01
+      },
+      "comparisons": [
+        "CosineSimilarityAtThresholds",
+        "JaroWinklerAtThresholds",
+        "ExactMatch",
+        "ExactMatch",
+        "ExactMatch"
+      ],
+      "metrics": {
+        "threshold": 3.201281067960082e-05,
+        "precision": 0.9166666666666666,
+        "recall": 0.9777777777777777,
+        "f1": 0.946236559139785,
+        "true_positives": 44,
+        "false_positives": 4,
+        "false_negatives": 1,
+        "true_negatives": 444,
+        "roc_auc": 0.9990575396825396,
+        "average_precision": 0.9909348719350705,
+        "predicted_edges": 48,
+        "predicted_unique_clusters": 44,
+        "predicted_redundant_records": 46
+      },
+      "model_path": "data\\linkage\\baseline\\splink-procedure-model.json",
+      "predictions_path": "data\\linkage\\baseline\\splink-procedure-predictions.parquet"
     }
   ],
   "error_file": "data/linkage/baseline/errors.csv"

@@ -8,6 +8,7 @@
 - 45 manually labelled duplicate pairs
 - 448 manually labelled non-duplicate pairs
 - Qwen3 Embedding 8B, 1024 dimensions, L2-normalized
+- deterministic procedure extraction from `summary_text`
 
 Ground-truth labels are **not** used to estimate Splink model parameters. They are used to
 select/report the decision threshold, so the metrics below are calibration-set metrics rather
@@ -15,74 +16,54 @@ than a held-out estimate of generalization.
 
 ## Models
 
-### Raw embedding cosine
+| Model | Precision | Recall | F1 | ROC-AUC | Average precision |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| Raw Qwen cosine | 0.900 | 0.800 | 0.847 | 0.979 | 0.899 |
+| Splink cosine-only | 0.895 | 0.756 | 0.819 | 0.974 | 0.874 |
+| Splink + lexical/date/rating | **0.971** | 0.756 | 0.850 | 0.989 | 0.933 |
+| **Splink + procedure signature** | 0.917 | **0.978** | **0.946** | **0.999** | **0.991** |
 
-A single continuous cosine threshold on the Qwen vectors.
+## Procedure-aware model
 
-- best threshold: 0.8794485
-- precision: 0.900
-- recall: 0.800
-- F1: 0.847
-- ROC-AUC: 0.979
-- average precision: 0.899
-- 36 TP / 4 FP / 9 FN
-- 52 predicted unique clusters (38 redundant records)
-
-### Splink cosine-only
-
-Splink 5 with:
+The current best model uses:
 
 - exact `clinic_id` blocking
-- cosine comparison levels at 0.97 / 0.94 / 0.91 / 0.88 / 0.85 / 0.80 / 0.70
+- Qwen cosine comparison levels
+- Jaro-Winkler levels over `summary_text`
+- exact `rating` agreement
+- exact `review_date` agreement
+- term-frequency-adjusted exact agreement on normalized `procedure_signature`
 - `u` estimated from random record pairs
 - `m` estimated by expectation-maximization
 - fixed prior match probability of 0.01
 
-Results:
+Calibration-set result:
 
-- precision: 0.895
-- recall: 0.756
-- F1: 0.819
-- ROC-AUC: 0.974
-- average precision: 0.874
-- 34 TP / 4 FP / 11 FN
+- precision: **0.917**
+- recall: **0.978**
+- F1: **0.946**
+- ROC-AUC: **0.999**
+- average precision: **0.991**
+- 44 TP / 4 FP / 1 FN
+- 44 predicted connected-component clusters
 
-This is intentionally expected not to beat raw cosine: one discretized signal cannot add
-ranking information that was not already present in the continuous cosine score.
+The procedure signature itself agrees for all 45 manually adjudicated duplicate pairs, but it
+also agrees for 40 of the 448 non-duplicate same-clinic pairs. It is therefore treated as
+probabilistic evidence rather than a duplicate rule.
 
-### Splink augmented
+## Remaining errors
 
-The same model plus:
+The single false negative is the medium-confidence Chai pair describing a posterior/lower
+eye-corner operation with materially different paraphrasing. It has the same normalized
+procedure signature, date, and rating, but unusually weak text/embedding similarity.
 
-- Jaro-Winkler levels over `summary_text`
-- exact `rating` agreement
-- exact `review_date` agreement
+The four false positives are same-clinic reviews where procedure, date, and rating also agree.
+They are concentrated in repeated eyelid/ptosis procedures at View and Pop, so further gains
+would require evidence that distinguishes individual patient experiences rather than broader
+procedure taxonomy.
 
-Results:
-
-- best calibrated match-probability threshold: 0.7483212
-- precision: **0.971**
-- recall: **0.756**
-- F1: **0.850**
-- ROC-AUC: **0.989**
-- average precision: **0.933**
-- 34 TP / 1 FP / 11 FN
-- 55 predicted unique clusters (35 redundant records)
-
-The added evidence removes three of the four cosine-only false positives while preserving the
-same true-positive count. It materially improves ranking quality (ROC-AUC/AP) and precision,
-but does not recover the hardest low-cosine paraphrases.
-
-## Error interpretation
-
-The remaining false negatives are not primarily a threshold problem. Several manually
-adjudicated duplicate pairs have unusually low embedding similarity despite matching procedure,
-recovery timeline, and distinctive details. The two medium-confidence human labels are among
-the difficult cases.
-
-This is the point at which procedure/entity features become justified. The next experiment
-should add a small deterministic/structured procedure representation (and, if available,
-surgeon identity) rather than adding more generic text-distance functions.
+This is a good stopping point for procedure extraction. Adding more procedure categories would
+mostly make the taxonomy more detailed without addressing the remaining ambiguity.
 
 ## Reproduction
 
@@ -92,10 +73,19 @@ Run:
 uv run --no-project --python .venv\Scripts\python.exe python scripts\run_splink_baseline.py
 ```
 
-Outputs are under `data/linkage/baseline/`:
+Outputs under `data/linkage/baseline/`:
 
 - `report.json`
-- raw-cosine pair scores
-- both trained Splink model JSON files
-- both prediction Parquet files
 - `errors.csv`
+- `raw-cosine-pairs.parquet`
+- `splink-cosine-model.json`
+- `splink-cosine-predictions.parquet`
+- `splink-augmented-model.json`
+- `splink-augmented-predictions.parquet`
+- `splink-procedure-model.json`
+- `splink-procedure-predictions.parquet`
+
+Procedure extraction audit:
+
+- `data/linkage/procedure-extraction-report.json`
+- `docs/procedure-extraction.md`

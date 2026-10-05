@@ -401,7 +401,23 @@ def main() -> None:
         record_ids=record_ids,
     )
 
-    errors = raw_errors + cosine_errors + augmented_errors
+    procedure_report, procedure_errors = run_splink_model(
+        name="splink-procedure",
+        table=table,
+        labels=labels,
+        comparisons=[
+            CosineSimilarityAtThresholds("summary_embedding", COSINE_THRESHOLDS),
+            JaroWinklerAtThresholds("summary_text", JARO_WINKLER_THRESHOLDS),
+            ExactMatch("rating"),
+            ExactMatch("review_date"),
+            ExactMatch("procedure_signature").configure(
+                term_frequency_adjustments=True
+            ),
+        ],
+        record_ids=record_ids,
+    )
+
+    errors = raw_errors + cosine_errors + augmented_errors + procedure_errors
     write_errors(errors)
 
     report = {
@@ -419,7 +435,12 @@ def main() -> None:
             ),
         },
         "blocking_rule": "exact clinic_id",
-        "models": [raw_report, cosine_report, augmented_report],
+                    "models": [
+            raw_report,
+            cosine_report,
+            augmented_report,
+            procedure_report,
+        ],
         "error_file": "data/linkage/baseline/errors.csv",
     }
 

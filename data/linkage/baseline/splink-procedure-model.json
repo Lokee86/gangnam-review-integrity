@@ -5,7 +5,7 @@
   "retain_intermediate_calculation_columns": true,
   "additional_columns_to_retain": [],
   "sql_dialect": "duckdb",
-  "linker_uid": "gbg-splink-augmented-v1",
+  "linker_uid": "gbg-splink-procedure-v1",
   "em_convergence": 0.0001,
   "max_iterations": 25,
   "match_weight_column_prefix": "mw_",
@@ -33,7 +33,7 @@
         {
           "sql_condition": "array_cosine_similarity(\"summary_embedding_l\", \"summary_embedding_r\") >= 0.97",
           "label_for_charts": "Cosine similarity of summary_embedding >= 0.97",
-          "m_probability": 0.08988601132394786,
+          "m_probability": 0.0738258177354613,
           "u_probability": 0.000749063670411985,
           "fix_m_probability": false,
           "fix_u_probability": false
@@ -41,7 +41,7 @@
         {
           "sql_condition": "array_cosine_similarity(\"summary_embedding_l\", \"summary_embedding_r\") >= 0.94",
           "label_for_charts": "Cosine similarity of summary_embedding >= 0.94",
-          "m_probability": 0.20307186560106782,
+          "m_probability": 0.19374210871823672,
           "u_probability": 0.0019975031210986267,
           "fix_m_probability": false,
           "fix_u_probability": false
@@ -49,7 +49,7 @@
         {
           "sql_condition": "array_cosine_similarity(\"summary_embedding_l\", \"summary_embedding_r\") >= 0.91",
           "label_for_charts": "Cosine similarity of summary_embedding >= 0.91",
-          "m_probability": 0.27922381520066836,
+          "m_probability": 0.26458046938780105,
           "u_probability": 0.0027465667915106116,
           "fix_m_probability": false,
           "fix_u_probability": false
@@ -57,7 +57,7 @@
         {
           "sql_condition": "array_cosine_similarity(\"summary_embedding_l\", \"summary_embedding_r\") >= 0.88",
           "label_for_charts": "Cosine similarity of summary_embedding >= 0.88",
-          "m_probability": 0.31041974987198107,
+          "m_probability": 0.28642189068680973,
           "u_probability": 0.003995006242197253,
           "fix_m_probability": false,
           "fix_u_probability": false
@@ -65,7 +65,7 @@
         {
           "sql_condition": "array_cosine_similarity(\"summary_embedding_l\", \"summary_embedding_r\") >= 0.85",
           "label_for_charts": "Cosine similarity of summary_embedding >= 0.85",
-          "m_probability": 0.11739642597310883,
+          "m_probability": 0.06176655492104047,
           "u_probability": 0.006491885143570537,
           "fix_m_probability": false,
           "fix_u_probability": false
@@ -73,7 +73,7 @@
         {
           "sql_condition": "array_cosine_similarity(\"summary_embedding_l\", \"summary_embedding_r\") >= 0.8",
           "label_for_charts": "Cosine similarity of summary_embedding >= 0.8",
-          "m_probability": 2.13202848223084e-06,
+          "m_probability": 0.11965517600487524,
           "u_probability": 0.03870162297128589,
           "fix_m_probability": false,
           "fix_u_probability": false
@@ -81,7 +81,7 @@
         {
           "sql_condition": "array_cosine_similarity(\"summary_embedding_l\", \"summary_embedding_r\") >= 0.7",
           "label_for_charts": "Cosine similarity of summary_embedding >= 0.7",
-          "m_probability": 7.43755656933318e-13,
+          "m_probability": 7.982545775489361e-06,
           "u_probability": 0.1453183520599251,
           "fix_m_probability": false,
           "fix_u_probability": false
@@ -89,7 +89,7 @@
         {
           "sql_condition": "ELSE",
           "label_for_charts": "All other comparisons",
-          "m_probability": 2.042472895681826e-21,
+          "m_probability": 2.7565770166734866e-139,
           "u_probability": 0.8,
           "fix_m_probability": false,
           "fix_u_probability": false
@@ -116,7 +116,7 @@
         {
           "sql_condition": "jaro_winkler_similarity(\"summary_text_l\", \"summary_text_r\") >= 0.95",
           "label_for_charts": "Jaro-Winkler distance of summary_text >= 0.95",
-          "m_probability": 0.03184175847590516,
+          "m_probability": 0.02465542464950174,
           "u_probability": 0.00024968789013732833,
           "fix_m_probability": false,
           "fix_u_probability": false
@@ -124,7 +124,7 @@
         {
           "sql_condition": "jaro_winkler_similarity(\"summary_text_l\", \"summary_text_r\") >= 0.9",
           "label_for_charts": "Jaro-Winkler distance of summary_text >= 0.9",
-          "m_probability": 0.03184175847590516,
+          "m_probability": 0.02465542464950174,
           "u_probability": 0.00024968789013732833,
           "fix_m_probability": false,
           "fix_u_probability": false
@@ -132,7 +132,7 @@
         {
           "sql_condition": "jaro_winkler_similarity(\"summary_text_l\", \"summary_text_r\") >= 0.85",
           "label_for_charts": "Jaro-Winkler distance of summary_text >= 0.85",
-          "m_probability": 0.9363164830481897,
+          "m_probability": 0.9506891507009965,
           "u_probability": 0.762796504369538,
           "fix_m_probability": false,
           "fix_u_probability": false
@@ -140,7 +140,7 @@
         {
           "sql_condition": "jaro_winkler_similarity(\"summary_text_l\", \"summary_text_r\") >= 0.8",
           "label_for_charts": "Jaro-Winkler distance of summary_text >= 0.8",
-          "m_probability": 1.96743789187993e-151,
+          "m_probability": 1.377790293930461e-187,
           "u_probability": 0.22671660424469414,
           "fix_m_probability": false,
           "fix_u_probability": false
@@ -186,7 +186,7 @@
         {
           "sql_condition": "\"rating_l\" = \"rating_r\"",
           "label_for_charts": "Exact match on rating",
-          "m_probability": 1.0,
+          "m_probability": 0.9999999999999721,
           "u_probability": 0.652434456928839,
           "fix_m_probability": false,
           "fix_u_probability": false
@@ -194,7 +194,7 @@
         {
           "sql_condition": "ELSE",
           "label_for_charts": "All other comparisons",
-          "m_probability": 3.256405864129172e-37,
+          "m_probability": 2.7804352651833277e-14,
           "u_probability": 0.34756554307116105,
           "fix_m_probability": false,
           "fix_u_probability": false
@@ -223,8 +223,39 @@
         {
           "sql_condition": "ELSE",
           "label_for_charts": "All other comparisons",
-          "m_probability": 2.118921892785072e-92,
+          "m_probability": 1.3359964451244205e-20,
           "u_probability": 0.503370786516854,
+          "fix_m_probability": false,
+          "fix_u_probability": false
+        }
+      ],
+      "comparison_description": "ExactMatch"
+    },
+    {
+      "output_column_name": "procedure_signature",
+      "comparison_levels": [
+        {
+          "sql_condition": "\"procedure_signature_l\" IS NULL OR \"procedure_signature_r\" IS NULL",
+          "label_for_charts": "procedure_signature is NULL",
+          "fix_m_probability": false,
+          "fix_u_probability": false,
+          "is_null_level": true
+        },
+        {
+          "sql_condition": "\"procedure_signature_l\" = \"procedure_signature_r\"",
+          "label_for_charts": "Exact match on procedure_signature",
+          "m_probability": 0.9999999999999993,
+          "u_probability": 0.07116104868913857,
+          "fix_m_probability": false,
+          "fix_u_probability": false,
+          "tf_adjustment_column": "procedure_signature",
+          "tf_adjustment_weight": 1.0
+        },
+        {
+          "sql_condition": "ELSE",
+          "label_for_charts": "All other comparisons",
+          "m_probability": 6.172606626144443e-16,
+          "u_probability": 0.9288389513108615,
           "fix_m_probability": false,
           "fix_u_probability": false
         }
